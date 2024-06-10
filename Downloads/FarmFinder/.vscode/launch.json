@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FarmFinderApplication",
+            "request": "launch",
+            "mainClass": "fbclogic.FarmFinder.FarmFinderApplication",
+            "projectName": "FarmFinder"
+        },
+        {
+            "name": "PowerShell Launch Current File",
+            "type": "PowerShell",
+            "request": "launch",
+            "args": [
+                "C:\\MinstonContractWork\\Assignment01\\Dev",
+                "WIP_abc"
+            ],
+            "script": "${file}",
+            "cwd": "${cwd}"
+        }
+    ]
+}
