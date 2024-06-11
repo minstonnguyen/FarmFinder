@@ -1,0 +1,11 @@
+ScorecardID,ScorecardName,
+Organic Egg Scorecard
+Organic Dairy Scorecard
+Organic Beef Scorecard
+Organic Poultry Scorecard
+Organic Yogurt Scorecard
+Plant-Based Beverages Scorecard
+Snack Bar Scorecard
+Cottage Cheese Scorecard
+Cereal Scorecard
+Organic Soy Food Scorecard
