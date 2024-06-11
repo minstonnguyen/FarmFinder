@@ -1,4 +1,4 @@
-ScorecardID,ScorecardName,
+ScorecardID,ScorecardName
 Organic Egg Scorecard
 Organic Dairy Scorecard
 Organic Beef Scorecard

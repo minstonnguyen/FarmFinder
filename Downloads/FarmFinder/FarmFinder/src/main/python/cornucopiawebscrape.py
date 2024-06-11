@@ -5,10 +5,12 @@ import re
 class HTMLToFileScorecard:
     COLUMN_NAME_ARRAY = ['ScorecardID','ScorecardName']
     def __init__(self, url, outputDir, fileName): 
-        #to do, check input parameters check if valid, check if directory exists, wrap all of this in a try catch
+        self.__validateParam()
         self.url = url
         self.outputDir = outputDir
         self.fileName = fileName
+    def __validateParam(self):
+        print("to do, check input parameters check if valid, check if directory exists, wrap all of this in a try catch")
     def run(self):
         link = self.url
         soup = self.__openlink(link)
@@ -28,8 +30,10 @@ class HTMLToFileScorecard:
     def __writeToTextFile(self, container, outputDir, fileName): # needs a try catch finally, close in the finally
         fullQualifiedPath = outputDir + '/' + fileName
         finalTextFileOutput = open(fullQualifiedPath,"w")
-        for item in HTMLToFileScorecard.COLUMN_NAME_ARRAY:
-            finalTextFileOutput.write(item + ',')#solve edge case
+        for i, item in enumerate(HTMLToFileScorecard.COLUMN_NAME_ARRAY):
+            finalTextFileOutput.write(item)#solve edge case
+            if (i < len(HTMLToFileScorecard.COLUMN_NAME_ARRAY) - 1):
+                finalTextFileOutput.write(',')
         finalTextFileOutput.write('\n')
         for item in container:
             finalTextFileOutput.write(item + "\n")
