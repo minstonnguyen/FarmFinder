@@ -18,7 +18,9 @@ public class SecurityConfig {
                 authorizeRequests
                     .requestMatchers("/").permitAll()
                     .anyRequest().authenticated()
+            
             )
+            
             .oauth2Login(oauth2Login ->
                 oauth2Login
                     .defaultSuccessUrl("/home")

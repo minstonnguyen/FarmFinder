@@ -1,0 +1,3 @@
+StarRating|Score|Products|BrandMarketArea|Organic|PlantBased|ParentCompany|CompanyType|ParticipatedInSurvey|Description|BrandName
+5|1705|NULL|NY|NULL|NULL|NULL|NULL|NULL|Eight Mile Creek Farm sells their eggs on-farm and through CSA shares. For more information on Eight Mile Creek Farm, see ourfarmer spotlight.|Eight Mile Creek Farm
+5|1675|NULL|OR|NULL|NULL|NULL|NULL|NULL|This brand sells Muscovy duck eggs. They write: “Our farm is 67 acres in total; we cultivate about 4 acres per year for market vegetables and we installed a high tunnel in 2020, allowing us

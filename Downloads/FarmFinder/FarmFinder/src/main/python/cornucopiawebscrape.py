@@ -58,7 +58,7 @@ def scorecardScrapingData(soup):
 def main():
     link = "https://www.cornucopia.org/scorecards/"
     outputPath = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir"
-    outputFileName = "Test.txt"
+    outputFileName = "ScorecardOutput.txt"
     scorecardToTextFileInstance = HTMLToFileScorecard(link, outputPath, outputFileName)
     scorecardToTextFileInstance.run()
 main()
