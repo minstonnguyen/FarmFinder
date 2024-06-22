@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd
 import re
+import csv
 
 class ScorecardData():
 
@@ -58,7 +59,9 @@ class ScorecardData():
                 row_values.append(description)
                 row_values.append(star_rating)
                 
-                self.data.append(row_values)    
+                self.data.append(row_values)   
+            
+
 
 
     def description(self, url):   #additional web request needed to access a link within a link for description
@@ -105,9 +108,14 @@ class ScorecardData():
     
 
     def write_to_file(self, file_name):  #writes to a txt file
-        with open(file_name, 'w', encoding="utf-8") as f:
-            contents = self.df.fillna('NULL').to_csv(sep='|', index=False)  #cnvert NaN values to NULL
-            f.write(contents)
+         with open(file_name, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f, delimiter='|', quoting=csv.QUOTE_MINIMAL)
+            writer.writerow(self.ordering_col)  # Write header
+            f.write('^_')
+            for row in self.df.fillna('NULL').values:
+                row_values = list(row[:-1])  # Exclude the last item in the row
+                last_value = row[-1] if row[-1] != 'NULL' else ''  # Last item or empty string
+                writer.writerow(row_values + [last_value + '^_'])
 
 
 url = 'https://www.cornucopia.org/scorecard/eggs/'

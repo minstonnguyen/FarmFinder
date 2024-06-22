@@ -64,8 +64,9 @@ class ConvertTextFileToDBTable:
     def run(self):
         
         try:
-            with open(self.filename, 'r') as file:
-                lines = file.readlines()
+            with open(self.filename, 'r', encoding='utf-8') as file:
+                content = file.read()
+                lines = content.split('^_')
                 numRows = len(lines) -1 #length of rows - 1 to remove top header      
                 columnNames = lines[0].strip().split(self.getDelimeter()) #column names extraction ei ID, Name
                 numColumns = len(columnNames)
@@ -75,6 +76,8 @@ class ConvertTextFileToDBTable:
                     
         except FileNotFoundError:
             print(f"The file {self.filename} does not exist.")
+        except UnicodeDecodeError as e:
+            print(f"UnicodeDecodeError: {e}")
         
     def insertFromDBTableDataToSQL(self, lines, dbTableData, numColumns, numRows, columnNames, tableName):
         cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+self.dbConnectionInfo.getServer()+';DATABASE=' +
@@ -103,10 +106,10 @@ server = 'MTN-LAPTOP\SQLEXPRESS'  # for a named instance
 database = 'FarmFinderDB'
 username = 'FarmFinderDBA'
 password = 'a'
-fileName = 'C:\\Users\\minston\\Documents\\BrandMasterSampleTextOutput.txt'
+fileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\BrandNameTextFileTest.txt"
 
 
-fileNameReal = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\BrandNameTextFileTest.txt"
+fileNameReal = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\BrandNameTextFile.txt"
 delimeter = '|'
 textFile = TextFile(fileNameReal, delimeter)
 tableName = 'BrandMaster'
