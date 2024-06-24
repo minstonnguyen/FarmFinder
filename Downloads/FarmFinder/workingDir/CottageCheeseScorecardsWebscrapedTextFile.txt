@@ -1,0 +1,89 @@
+StarRating|Score|Products|BrandMarketArea|Organic|PlantBased|ParentCompany|CompanyType|ParticipatedInSurvey|Description|BrandName
+^_5|2050|NULL|NULL|Yes|NULL|Kalona Supernatural|NULL|NULL|NULL|Kalona Super Natural 4%^_
+5|2050|NULL|NULL|Yes|NULL|Now Farms|NULL|NULL|NULL|Oasis Organic^_
+5|2050|NULL|NULL|Yes|NULL|Kalona Supernatural|NULL|NULL|NULL|Kalona Super Natural 2% Reduced Fat^_
+5|2040|NULL|NULL|Yes|NULL|Nancy's|NULL|NULL|NULL|Nancy's Organic Whole Milk^_
+5|2040|NULL|NULL|Yes|NULL|Nancy's|NULL|NULL|NULL|Nancy's Organic Low Fat^_
+5|1995|NULL|NULL|Yes|NULL|Good Culture|NULL|NULL|NULL|Good Culture Organic Classic 4%^_
+5|1995|NULL|NULL|Yes|NULL|Good Culture|NULL|NULL|NULL|Good Culture Organic 4% lactose-free^_
+5|1995|NULL|NULL|Yes|NULL|Good Culture|NULL|NULL|NULL|Good Culture Organic Classic 2%^_
+5|1995|NULL|NULL|Yes|NULL|Good Culture|NULL|NULL|NULL|Good Culture Organic Classic 6%^_
+5|1990|NULL|NULL|Yes|NULL|Westby Creamery|NULL|NULL|NULL|Westby Organic Small Curd 2%^_
+5|1990|NULL|NULL|Yes|NULL|Westby Creamery|NULL|NULL|NULL|Westby Organic Small Curd 4%^_
+5|1900|NULL|NULL|Yes|NULL|Emmi Roth|NULL|NULL|NULL|Green Valley Organic 4% Lactose-free^_
+4|1650|NULL|NULL|Yes|NULL|Organic Valley|NULL|NULL|NULL|Organic Valley 4%^_
+4|1650|NULL|NULL|Yes|NULL|Foster Farms Dairy|NULL|NULL|NULL|Humboldt Organic Low fat^_
+4|1650|NULL|NULL|Yes|NULL|Foster Farms Dairy|NULL|NULL|NULL|Humboldt Organic 4%^_
+4|1650|NULL|NULL|Yes|NULL|Organic Valley|NULL|NULL|NULL|Organic Valley 2% Low Fat^_
+4|1595|NULL|NULL|Yes|NULL|Good Culture|NULL|NULL|NULL|Good Culture Organic Strawberry Chia^_
+4|1550|NULL|NULL|Yes|NULL|Whole Foods|NULL|NULL|NULL|365 Low Fat 1.5%^_
+4|1550|NULL|NULL|Yes|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Organic Full Fat^_
+4|1550|NULL|NULL|Yes|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Organic Low Fat^_
+4|1545|NULL|NULL|Yes|NULL|Good Culture|NULL|NULL|NULL|Good Culture Organic Pineapple^_
+4|1350|NULL|NULL|Yes|NULL|Whole Foods|NULL|NULL|NULL|365 4%^_
+3|1095|NULL|NULL|No|NULL|Good Culture|NULL|NULL|NULL|Good Culture Classic 2%^_
+3|1095|NULL|NULL|No|NULL|Good Culture|NULL|NULL|NULL|Good Culture 2% Lactose-free^_
+3|1050|NULL|NULL|No|NULL|Daisy Brands|NULL|NULL|NULL|Daisy 4%^_
+3|1050|NULL|NULL|No|NULL|Daisy Brands|NULL|NULL|NULL|Daisy 2% Low-fat^_
+2|845|NULL|NULL|No|NULL|Good Culture|NULL|NULL|NULL|Good Culture Classic 4%^_
+2|700|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Fat Free^_
+2|700|NULL|NULL|No|NULL|Saputo Dairy Foods|NULL|NULL|NULL|Friendship California Style 4%^_
+2|700|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's 4%^_
+2|700|NULL|NULL|No|NULL|Saputo Dairy Foods|NULL|NULL|NULL|Friendship Pot Style 2%^_
+2|700|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Small Curd 2%, Low Sodium^_
+2|700|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Small Curd 2%^_
+2|600|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Knudsen 2%^_
+2|600|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Knudsen Small Curd 4%^_
+2|600|NULL|NULL|No|NULL|Wal-Mart|NULL|NULL|NULL|Great Value Small Curd Fat Free^_
+2|600|NULL|NULL|No|NULL|Wal-Mart|NULL|NULL|NULL|Great Value Large Curd 4%^_
+2|600|NULL|NULL|No|NULL|Wal-Mart|NULL|NULL|NULL|Great Value Small Curd 4%^_
+2|600|NULL|NULL|No|NULL|Trader Joes|NULL|NULL|NULL|Trader Joes Small Curd 4%^_
+2|600|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's 2%^_
+2|545|NULL|NULL|No|NULL|Good Culture|NULL|NULL|NULL|Good Culture Strawberry 2%^_
+2|545|NULL|NULL|No|NULL|Good Culture|NULL|NULL|NULL|Good Culture Peach 2%^_
+2|545|NULL|NULL|No|NULL|Good Culture|NULL|NULL|NULL|Good Culture Blueberry 2%^_
+2|500|NULL|NULL|No|NULL|Saputo Dairy Foods|NULL|NULL|NULL|Friendship Pineapple 1%^_
+2|500|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Knudsen Fat Free^_
+2|500|NULL|NULL|No|NULL|HP Hood|NULL|NULL|NULL|Lactaid 4%^_
+2|445|NULL|NULL|No|NULL|Good Culture|NULL|NULL|NULL|Good Culture Pineapple 2%^_
+1|400|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Mango^_
+1|400|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Peach^_
+1|400|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Black Cherry^_
+1|400|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Pineapple^_
+1|400|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Knudsen Pineapple Low fat^_
+1|400|NULL|NULL|No|NULL|HP Hood|NULL|NULL|NULL|Lactaid 4% with Pineapple^_
+1|400|NULL|NULL|No|NULL|Saputo Dairy Foods|NULL|NULL|NULL|Friendship Small Curd 1% Lowfat^_
+1|400|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Blueberry^_
+1|400|NULL|NULL|No|NULL|Saputo Dairy Foods|NULL|NULL|NULL|Friendship Whipped 1%^_
+1|400|NULL|NULL|No|NULL|Saputo Dairy Foods|NULL|NULL|NULL|Friendship No Salt Added 1%^_
+1|400|NULL|NULL|No|NULL|Wal-Mart|NULL|NULL|NULL|Great Value Small Curd 1%^_
+1|350|NULL|NULL|No|NULL|Clover Sonoma|NULL|NULL|NULL|Clover 2%^_
+1|350|NULL|NULL|No|NULL|Clover Sonoma|NULL|NULL|NULL|Clover 4%^_
+1|300|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Raspberry^_
+1|300|NULL|NULL|No|NULL|Kraft|NULL|NULL|NULL|Breakstone's Strawberry^_
+1|240|NULL|NULL|No|NULL|Westby Creamery|NULL|NULL|NULL|Westby Small Curd 2%^_
+1|240|NULL|NULL|No|NULL|Westby Creamery|NULL|NULL|NULL|Westby Small Curd 4%^_
+1|240|NULL|NULL|No|NULL|Westby Creamery|NULL|NULL|NULL|Westby Large Curd^_
+1|200|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps 2%^_
+1|200|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Dairy Pure 4% Small Curd^_
+1|200|NULL|NULL|No|NULL|Publix|NULL|NULL|NULL|Publix Small Curd^_
+1|200|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps Fat Free^_
+1|200|NULL|NULL|No|NULL|Publix|NULL|NULL|NULL|Publix Low Fat^_
+1|200|NULL|NULL|No|NULL|Agri-Mark Cooperative|NULL|NULL|NULL|Cabot No Fat^_
+1|200|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps Large Curd 4%^_
+1|200|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps 1%^_
+1|200|NULL|NULL|No|NULL|Publix|NULL|NULL|NULL|Publix Large Curd^_
+1|200|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps w/ Chives 4%^_
+1|200|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps Small Curd 4%^_
+1|200|NULL|NULL|No|NULL|Agri-Mark Cooperative|NULL|NULL|NULL|Cabot 4%^_
+1|100|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps Peach^_
+1|100|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Dairy Pure 4% Large Curd^_
+1|100|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Dairy Pure 2% Small Curd^_
+1|100|NULL|NULL|No|NULL|Publix|NULL|NULL|NULL|Publix Fat Free^_
+1|100|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps Bacon Cheddar^_
+1|100|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps Strawberry^_
+1|100|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps Pineapple^_
+1|100|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Dairy Pure 1% Small Curd^_
+1|0|NULL|NULL|No|NULL|Dairy Farmers of America|NULL|NULL|NULL|Kemps Mixed Berry^_
+1|0|NULL|NULL|No|NULL|Saputo Dairy Foods|NULL|NULL|NULL|Friendship Small Curd 0%^_
+1|0|NULL|NULL|No|NULL|Saputo Dairy Foods|NULL|NULL|NULL|Friendship Pineapple 0%^_

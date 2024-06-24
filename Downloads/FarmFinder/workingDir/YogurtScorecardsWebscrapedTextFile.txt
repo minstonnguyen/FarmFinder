@@ -1,0 +1,227 @@
+StarRating|Score|Products|BrandMarketArea|Organic|PlantBased|ParentCompany|CompanyType|ParticipatedInSurvey|Description|BrandName
+^_NULL|1100|NULL|NULL|NULL|NULL|Hawthorne Valley Farm|NULL|NULL|NULL|Hawthorne Valley, Whole Maple Vanilla^_
+NULL|1100|NULL|NULL|NULL|NULL|Seven Stars Farm|NULL|NULL|NULL|Seven Stars, Whole Vanilla^_
+NULL|1100|NULL|NULL|NULL|NULL|Hawthorne Valley Farm|NULL|NULL|NULL|Hawthorne Valley, Whole Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Radiance Dairy|NULL|NULL|NULL|Radiance Dairy, Whole, Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Butterworks Farm|NULL|NULL|NULL|Butterworks, Whole Maple^_
+NULL|1100|NULL|NULL|NULL|NULL|Alexandre Family Farm|NULL|NULL|NULL|Alexandre Family Farm, Grassfed Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Butterworks Farm|NULL|NULL|NULL|Butterworks, Lowfat Maple Kefir^_
+NULL|1100|NULL|NULL|NULL|NULL|Seven Stars Farm|NULL|NULL|NULL|Seven Stars, Whole Lemon^_
+NULL|1100|NULL|NULL|NULL|NULL|Butterworks Farm|NULL|NULL|NULL|Butterworks, Nonfat Vanilla^_
+NULL|1100|NULL|NULL|NULL|NULL|Butterworks Farm|NULL|NULL|NULL|Butterworks, Lowfat Plain Kingdom Kefir^_
+NULL|1100|NULL|NULL|NULL|NULL|Springwood Farm|NULL|NULL|NULL|SpringWood, Whole Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Butterworks Farm|NULL|NULL|NULL|Butterworks, Nonfat Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Seven Stars Farm|NULL|NULL|NULL|Seven Stars, Whole Maple^_
+NULL|1100|NULL|NULL|NULL|NULL|Seven Stars Farm|NULL|NULL|NULL|Seven Stars, Lowfat Maple^_
+NULL|1100|NULL|NULL|NULL|NULL|Berle Farm|NULL|NULL|NULL|Berle Farm, Whole Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Seven Stars Farm|NULL|NULL|NULL|Seven Stars, Lowfat Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Butterworks Farm|NULL|NULL|NULL|Butterworks, Whole Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Alexandre Family Farm|NULL|NULL|NULL|Alexandre Family Farm, Vanilla^_
+NULL|1100|NULL|NULL|NULL|NULL|Seven Stars Farm|NULL|NULL|NULL|Seven Stars, Whole Plain^_
+NULL|1100|NULL|NULL|NULL|NULL|Alexandre Family Farm|NULL|NULL|NULL|Alexandre Family Farm, Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Greek Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Kalona Organics|NULL|NULL|NULL|Kalona Supernatural, Lowfat Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Kalona Organics|NULL|NULL|NULL|Kalona Supernatural, Whole Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Kalona Organics|NULL|NULL|NULL|Kalona Supernatural, Whole Vanilla Kefir^_
+NULL|1000|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Nonfat Greek Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Grassfed Greek Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|White Mountain|NULL|NULL|NULL|White Mountain, Nonfat Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Plain Kefir^_
+NULL|1000|NULL|NULL|NULL|NULL|Maple Hill Creamery|NULL|NULL|NULL|Maple Hill, Whole Plain Kefir^_
+NULL|1000|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Greek Whole Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|White Mountain|NULL|NULL|NULL|White Mountain, Whole Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Maple Hill Creamery|NULL|NULL|NULL|Maple Hill, Whole Strawberry Kefir^_
+NULL|1000|NULL|NULL|NULL|NULL|Maple Hill Creamery|NULL|NULL|NULL|Maple Hill Creamery, Whole Cream-top Vanilla^_
+NULL|1000|NULL|NULL|NULL|NULL|Butterworks Farm|NULL|NULL|NULL|Butterworks, Lowfat Orange Sunshine Kefir^_
+NULL|1000|NULL|NULL|NULL|NULL|Maple Hill Creamery|NULL|NULL|NULL|Maple Hill Creamery, Greek Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Greek Nonfat Vanilla^_
+NULL|1000|NULL|NULL|NULL|NULL|Trimona|NULL|NULL|NULL|Trimona, Whole Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Greek Honey^_
+NULL|1000|NULL|NULL|NULL|NULL|Butterworks Farm|NULL|NULL|NULL|Butterworks, Whole Lemon^_
+NULL|1000|NULL|NULL|NULL|NULL|Maple Hill Creamery|NULL|NULL|NULL|Maple Hill Creamery, Whole Cream-top Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Kalona Organics|NULL|NULL|NULL|Kalona Supernatural, Greek Plain^_
+NULL|1000|NULL|NULL|NULL|NULL|Maple Hill Creamery|NULL|NULL|NULL|Maple Hill, Whole Vanilla Kefir^_
+NULL|1000|NULL|NULL|NULL|NULL|Trimona|NULL|NULL|NULL|Trimona, Whole Vanilla^_
+NULL|1000|NULL|NULL|NULL|NULL|Trimona|NULL|NULL|NULL|Trimona, Whole Plain Drinkable^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Grassfed Whole Plain^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Whole Vanilla^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Whole Greek Plain^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Grassfed Whole Blueberry Lavender^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Grassfed Whole Vanilla^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Grassfed Whole Ginger-Peach^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Nonfat Vanilla^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Nonfat Greek Honey^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Lowfat Plain^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Nonfat Greek Plain^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Whole Greek Honey^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Nonfat Plain^_
+NULL|970|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Whole Plain^_
+NULL|950|NULL|NULL|NULL|NULL|Kalona Organics|NULL|NULL|NULL|Kalona Supernatural, Whole Plain Kefir^_
+NULL|950|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Valley Creamery, Whole Plain Kefir^_
+NULL|950|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Valley Creamery, Lowfat Plain Kefir^_
+NULL|950|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Valley Creamery, Whole plain^_
+NULL|900|NULL|NULL|NULL|NULL|Norr|NULL|NULL|NULL|Norr, Nonfat Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Norr|NULL|NULL|NULL|Norr, Whole Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Norr|NULL|NULL|NULL|Norr, Whole Black Current & Blood Orange^_
+NULL|900|NULL|NULL|NULL|NULL|Norr|NULL|NULL|NULL|Norr, Whole Vanilla & Chamomile^_
+NULL|900|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Lowfat Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Whole Greek Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Maple^_
+NULL|900|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte, Whole Coffee^_
+NULL|900|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Lowfat Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Nonfat Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Whole Blueberry Pomegranate^_
+NULL|900|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Grassfed Greek Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Nonfat Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Whole Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Whole Greek Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Lowfat Greek Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Maple Hill Creamery|NULL|NULL|NULL|Maple Hill Creamery, Greek Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Nonfat Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Whole Maple^_
+NULL|900|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Lowfat Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Nonfat Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Kalona Organics|NULL|NULL|NULL|Kalona Supernatural, Lowfat Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Whole Vanilla^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Nonfat Greek Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Straus Family Creamery|NULL|NULL|NULL|Straus Family Creamery, Whole Plain^_
+NULL|900|NULL|NULL|NULL|NULL|Painterland Sister's|NULL|NULL|NULL|Painterland Sisters, Plain^_
+NULL|870|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Whole Mixed Berry^_
+NULL|850|NULL|NULL|NULL|NULL|Norr|NULL|NULL|NULL|Norr, Nonfat Elderflower & Lemon^_
+NULL|850|NULL|NULL|NULL|NULL|Norr|NULL|NULL|NULL|Norr, Nonfat Strawberry & Rhubarb^_
+NULL|850|NULL|NULL|NULL|NULL|Norr|NULL|NULL|NULL|Norr, Nonfat Blueberry & Lavender^_
+NULL|850|NULL|NULL|NULL|NULL|Norr|NULL|NULL|NULL|Norr, Whole Raspberry & Rosewater^_
+NULL|850|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Valley Creamery, Lowfat Plain^_
+NULL|850|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Valley Creamery, Lowfat Vanilla^_
+NULL|800|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte Whole Strawberry^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Whole Banilla^_
+NULL|800|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte, Whole Sea Salt Caramel^_
+NULL|800|NULL|NULL|NULL|NULL|Kalona Organics|NULL|NULL|NULL|Kalona Supernatural, Whole Vanilla^_
+NULL|800|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte, Whole Mango^_
+NULL|800|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Whole Plain^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Nonfat Blueberry^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Greek Whole Vanilla^_
+NULL|800|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Lemon^_
+NULL|800|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Whole Plain^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Whole Strawberry^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Lowfat Raspberry^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Greek Nonfat Plain^_
+NULL|800|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Lowfat Plain^_
+NULL|800|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte, Whole Cherry^_
+NULL|800|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte, Whole Lemon^_
+NULL|800|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Nonfat Plain^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Grassfed Greek Blueberry^_
+NULL|800|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Blueberry^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Nonfat Chocolate^_
+NULL|800|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte Whole, Lime^_
+NULL|800|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Berry^_
+NULL|800|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Peach^_
+NULL|800|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte, Whole Coconut^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Lowfat Strawberry^_
+NULL|800|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Lowfat Plain Kefir^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Whole Vanilla^_
+NULL|800|NULL|NULL|NULL|NULL|Lactilis American Group|NULL|NULL|NULL|Stonyfield, Lowfat Peach^_
+NULL|800|NULL|NULL|NULL|NULL|General Mills|NULL|NULL|NULL|Liberte, Whole Vanilla^_
+NULL|789|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Whole Plain Kefir^_
+NULL|770|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Whole Peach^_
+NULL|770|NULL|NULL|NULL|NULL|Nancy's|NULL|NULL|NULL|Nancy's, Whole Strawberry Vanilla^_
+NULL|750|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Valley Creamery, Lowfat Strawberry^_
+NULL|750|NULL|NULL|NULL|NULL|Painterland Sister's|NULL|NULL|NULL|Painterland Sisters, Blueberry Lemon^_
+NULL|750|NULL|NULL|NULL|NULL|Painterland Sister's|NULL|NULL|NULL|Painterland Sisters, Strawberry^_
+NULL|750|NULL|NULL|NULL|NULL|Painterland Sister's|NULL|NULL|NULL|Painterland Sisters, Vanilla Bean^_
+NULL|750|NULL|NULL|NULL|NULL|Painterland Sister's|NULL|NULL|NULL|Painterland Sisters, Savannah's Peach^_
+NULL|739|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Lowfat Plain Kefir^_
+NULL|700|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Greek Vanilla^_
+NULL|700|NULL|NULL|NULL|NULL|Hain Celestial|NULL|NULL|NULL|Earth's Best, Peach Banana Smoothie^_
+NULL|700|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Greek Blueberry^_
+NULL|700|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Strawberry^_
+NULL|700|NULL|NULL|NULL|NULL|Hain Celestial|NULL|NULL|NULL|Earth's Best, Pear Mango Smoothie^_
+NULL|700|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Whole Greek Raspberry^_
+NULL|700|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Strawberry^_
+NULL|700|NULL|NULL|NULL|NULL|Hain Celestial|NULL|NULL|NULL|Earth's Best, Strawberry Banana Smoothie^_
+NULL|700|NULL|NULL|NULL|NULL|Hain Celestial|NULL|NULL|NULL|Earth's Best, Apple Blueberry Smoothie^_
+NULL|700|NULL|NULL|NULL|NULL|Hain Celestial|NULL|NULL|NULL|Earth's Best, Mixed Berry Smoothie^_
+NULL|700|NULL|NULL|NULL|NULL|Hain Celestial|NULL|NULL|NULL|Earth's Best, Pineapple Orange Banana Smoothie^_
+NULL|700|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Berry^_
+NULL|700|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Whole Key Lime^_
+NULL|689|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Whole Lemon Kefir^_
+NULL|689|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Whole Coconut Honey Kefir^_
+NULL|650|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Valley Creamery, Lowfat Blueberry^_
+NULL|650|NULL|NULL|NULL|NULL|Painterland Sister's|NULL|NULL|NULL|Painterland Sisters, Meadow Berry^_
+NULL|639|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Lowfat Blueberry Kefir^_
+NULL|639|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Whole Peach Kefir^_
+NULL|639|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Lowfat Strawberry Kefir^_
+NULL|639|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Whole Mixed Berry Kefir^_
+NULL|639|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Whole Strawberry Kefir^_
+NULL|639|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Lowfat Peach Kefir^_
+NULL|639|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Lowfat Raspberry Kefir^_
+NULL|639|NULL|NULL|NULL|NULL|Lifeway Foods|NULL|NULL|NULL|Lifeway, Lowfat Pomegranate Acai Kefir^_
+NULL|600|NULL|NULL|NULL|NULL|Bellweather Farms|NULL|NULL|NULL|Bellweather, Whole, Blackberry^_
+NULL|600|NULL|NULL|NULL|NULL|Bellweather Farms|NULL|NULL|NULL|Bellweather, Whole, Vanilla^_
+NULL|600|NULL|NULL|NULL|NULL|Bellweather Farms|NULL|NULL|NULL|Bellweather, Whole, Strawberry^_
+NULL|600|NULL|NULL|NULL|NULL|Bellweather Farms|NULL|NULL|NULL|Bellweather, Whole, Plain^_
+NULL|600|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Whole Vanilla^_
+NULL|600|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Peach^_
+NULL|600|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Blueberry^_
+NULL|600|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Summer Strawberry Kefir^_
+NULL|600|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Lowfat Vanilla Kefir^_
+NULL|600|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Perfect Blueberry Kefir^_
+NULL|600|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Lowfat Mango Kefir^_
+NULL|600|NULL|NULL|NULL|NULL|Safeway/Albertson's|NULL|NULL|NULL|O Organics, Nonfat Greek Plain^_
+NULL|600|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Mango Passionfruit Pineapple Kefir^_
+NULL|600|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Lowfat Pomegranate Strawberry Acai Kefir^_
+NULL|600|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Whole Vanilla^_
+NULL|600|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Whole Blueberry^_
+NULL|600|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Whole Raspberry^_
+NULL|600|NULL|NULL|NULL|NULL|Clover Sonoma|NULL|NULL|NULL|Clover Sonoma, Nonfat Greek Vanilla^_
+NULL|600|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Horizon, Whole Plain^_
+NULL|550|NULL|NULL|NULL|NULL|Whole Foods/Amazon|NULL|NULL|NULL|365 Everyday, Nonfat Plain^_
+NULL|550|NULL|NULL|NULL|NULL|Kroger|NULL|NULL|NULL|Simple Truth, Nonfat Greek Plain^_
+NULL|550|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Valley Creamery, Lowfat Blueberry Pomegranate Acai Kefir^_
+NULL|550|NULL|NULL|NULL|NULL|Whole Foods/Amazon|NULL|NULL|NULL|365 Everyday, Whole Greek Plain^_
+NULL|533|NULL|NULL|NULL|NULL|Latta USA|NULL|NULL|NULL|Latta, Nonfat Plain^_
+NULL|533|NULL|NULL|NULL|NULL|Latta USA|NULL|NULL|NULL|Latta, Acidophilus Plain^_
+NULL|520|NULL|NULL|NULL|NULL|Pavel's|NULL|NULL|NULL|Pavel's, Lowfat Plain^_
+NULL|520|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Whole Greek Plain^_
+NULL|507|NULL|NULL|NULL|NULL|Green Valley Creamery|NULL|NULL|NULL|Green Mountain Creamery, Lowfat Greek Plain^_
+NULL|500|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Whole, No Sugar Added Vanilla Chai^_
+NULL|500|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Whole, No Sugar Added Peach Hibiscus^_
+NULL|500|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Lowfat Blueberry Kefir^_
+NULL|500|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Whole Strawberry^_
+NULL|500|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Lowfat Strawberry Kefir^_
+NULL|500|NULL|NULL|NULL|NULL|Safeway/Albertson's|NULL|NULL|NULL|O Organics, Whole Plain^_
+NULL|500|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Whole, No Sugar Added Strawberry Rose^_
+NULL|500|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Whole Raspberry^_
+NULL|500|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Wallaby, Greek Whole Strawberry^_
+NULL|450|NULL|NULL|NULL|NULL|Whole Foods/Amazon|NULL|NULL|NULL|365 Everyday, Whole Vanilla^_
+NULL|450|NULL|NULL|NULL|NULL|Kroger|NULL|NULL|NULL|Simple Truth, Lowfat Plain^_
+NULL|450|NULL|NULL|NULL|NULL|Whole Foods/Amazon|NULL|NULL|NULL|365 Everyday, Whole Plain^_
+NULL|450|NULL|NULL|NULL|NULL|Whole Foods/Amazon|NULL|NULL|NULL|365 Everyday, Lowfat Plain^_
+NULL|433|NULL|NULL|NULL|NULL|Latta USA|NULL|NULL|NULL|Latta, Nonfat Vanilla^_
+NULL|400|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Horizon, Whole Vanilla^_
+NULL|400|NULL|NULL|NULL|NULL|Safeway/Albertson's|NULL|NULL|NULL|O Organics, Nonfat Greek Vanilla^_
+NULL|400|NULL|NULL|NULL|NULL|Whole Foods/Amazon|NULL|NULL|NULL|365 Everyday, Lowfat Vanilla^_
+NULL|383|NULL|NULL|NULL|NULL|Latta USA|NULL|NULL|NULL|Latta, Nonfat Peach^_
+NULL|350|NULL|NULL|NULL|NULL|Whole Foods/Amazon|NULL|NULL|NULL|365 Everyday, Whole Blueberry^_
+NULL|320|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Lowfat Plain^_
+NULL|300|NULL|NULL|NULL|NULL|Danone|NULL|NULL|NULL|Horizon, Whole Strawberry^_
+NULL|270|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Nonfat Greek Vanilla^_
+NULL|270|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Nonfat Greek Blueberry^_
+NULL|250|NULL|NULL|NULL|NULL|Kroger|NULL|NULL|NULL|Simple Truth, Lowfat Vanilla^_
+NULL|250|NULL|NULL|NULL|NULL|Whole Foods/Amazon|NULL|NULL|NULL|365 Everyday, Whole Strawberry^_
+NULL|250|NULL|NULL|NULL|NULL|Kroger|NULL|NULL|NULL|Simple Truth, Nonfat Greek Vanilla Bean^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Whole Strawberry Banana^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Whole Mixed Berry^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Lowfat Vanilla^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Lowfat Blueberry^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Lowfat Black Cherry^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Lowfat Peach^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Whole Vanilla^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Lowfat Raspberry^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Nonfat Greek Strawberry^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Lowfat Strawberry^_
+NULL|220|NULL|NULL|NULL|NULL|Wegman's|NULL|NULL|NULL|Wegman's, Nonfat Greek Black Cherry^_

@@ -1,0 +1,91 @@
+StarRating|Score|Products|BrandMarketArea|Organic|PlantBased|ParentCompany|CompanyType|ParticipatedInSurvey|Description|BrandName
+^_5|1700|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Truvani, The Only Bar Oatmeal Chocolate Chip^_
+5|1700|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Raw Crunch, Blueberry Lemon^_
+5|1700|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Bearded Brothers, Choco Brownie Cruise Yumster Yo!^_
+5|1700|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Skout, Peanut Butter^_
+5|1700|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Bearded Brothers, Awesome Almond Butter Chocolate^_
+5|1700|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Jonesbar, Dark Chocolate Almond^_
+5|1600|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Once Upon a Farm, Apple Cinnamon Oat^_
+5|1600|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Pure Bliss, Turmeric Lemon Orange^_
+5|1600|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Tosi, Almond Blueberry^_
+5|1550|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Kate's, Peanut Butter Milk Chocolate^_
+5|1550|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Happy Kid, Blueberry and Raspberry^_
+5|1550|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Perfect Bar, Peanut Butter^_
+5|1550|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Rawr, Pumpkin and Pecan^_
+5|1510|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Health Warrior, Pumpkin Seed, Honey Sea Salt^_
+5|1500|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Corebar, Peanut Butter Chocolate^_
+5|1500|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Universal Bakery, Organic Paleo Bars^_
+5|1500|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Made Good, Vanilla Drizzled^_
+5|1500|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|GoMacro, Sunflower Butter + Chocolate^_
+5|1500|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Skout, Kids Blueberry Blast^_
+5|1463|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Rise Pea Protein Bar, Lemon Cashew^_
+5|1460|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Rise Whey Protein Bar, Almond Honey^_
+5|1453|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Dr. Mercola's, Pure Power Protein with Peanut Butter and Chocolate^_
+5|1450|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|ProBar, Chocolate Coconut^_
+5|1450|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Annie's, Chewy Peanut Butter Chocolate Chip^_
+5|1450|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Cascadian Farm, Oats and Honey^_
+5|1450|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Whole Earth and Sea, Vegan Greens^_
+5|1450|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Dave's Killer Bread, Trail Mix Crumble^_
+5|1450|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Aloha, Maple Sea Salt Protein^_
+5|1413|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Betty Lou's, Just Great Stuff Cacao+Acai^_
+5|1400|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Paleovalley, Apple Cinnamon Superfood^_
+5|1400|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Tusol, Cacao and Goji Berry^_
+5|1400|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Cerebelly, Apple Kale^_
+5|1375|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Garden of Life Fit, Peanut Butter Chocolate^_
+4|1358|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|NuGo, Organic Double Dark Chocolate^_
+4|1350|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Bakery on Main, Soft and Chewy Oats & Honey^_
+4|1300|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Orgain, Protein Chocolate Brownie^_
+4|1103|NULL|NULL|Made with organic ingredients|NULL|NULL|NULL|NULL|NULL|Dr. Mercola, Pure Power Mitomix Blueberry Pecan^_
+4|1100|NULL|NULL|Made with organic ingredients|NULL|NULL|NULL|NULL|NULL|GFB Bites, Dark Chocolate Coconut^_
+4|1100|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Larabar, Chocolate Chip Brownie^_
+4|1100|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Thunderbird, Chocolate Almond Butter Sea Salt^_
+3|1000|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Larabar, Cinnamon Swirl Kids^_
+3|1000|NULL|NULL|Made with organic ingredients|NULL|NULL|NULL|NULL|NULL|Raw Rev, Glo Creamy Peanut Butter and Sea Salt^_
+3|950|NULL|NULL|Made with organic ingredients|NULL|NULL|NULL|NULL|NULL|Bobo's, Chocolate Chip Oat^_
+3|871|NULL|NULL|Yes|NULL|NULL|NULL|NULL|NULL|Clif Kid, Zbar Protein Chocolate Mint^_
+3|800|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Beautiful Day, Bourbon Pecan^_
+3|800|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|RXBar, Vanilla Almond^_
+3|800|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Rachel Paul's, Happy Bars, Oatmeal Raisin Bliss^_
+3|800|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Julian Bakery, PaleoThin, Sunflower Butter^_
+3|800|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Amia, Cinnamon Baked Oat and Seed^_
+3|771|NULL|NULL|Made with organic ingredients|NULL|NULL|NULL|NULL|NULL|Luna, LemonZest Equality^_
+3|771|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Clif Bar, Chocolate Chip^_
+3|750|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Kind, Healthy Grains Vanilla Blueberry^_
+3|750|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Hemp Yeah!, Dark Chocolate Cacao^_
+3|700|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Nature's Bakery, Brownie Double Chocolate^_
+3|700|NULL|NULL|Made with organic ingredients|NULL|NULL|NULL|NULL|NULL|Init, Mixed Nuts and Sweet Berries^_
+3|700|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Nature's Bakery, Original Fig^_
+3|700|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Kize, Cookie Dough^_
+2|671|NULL|NULL|Made with organic ingredients|NULL|NULL|NULL|NULL|NULL|Clif Bar, Builders Vanilla Almond^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Evo Hemp, Brownie Chip Hemp^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Zing, Dark Chocolate Mint^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|RXBar, A.M. Honey Cinnamon Peanut Butter^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Kind, Dark Chocolate Nuts and Sea Salt^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Nature Valley, Crunchy Oats 'n Honey^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Bobo's, Chocolate Chip Peanut Butter Protein^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Primal Kitchen, Protein, Peanut Butter^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Primal Kitchen, Collagen Fuel, Dark Chocolate Almond^_
+2|600|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|think!, High Protein Brownie Crunch^_
+2|560|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Health Warrior, Chia Coconut^_
+2|550|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|IQBar, Almond Butter Chip^_
+2|550|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Kind, Energy Peanut Butter^_
+2|550|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Nature Valley, Fruit & Nut Trail Mix^_
+2|508|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|NuGo, Slim Crunchy Peanut Butter^_
+2|500|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Keep, Peanut Butter Cup^_
+2|500|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Ratio, Keto Vanilla Almond^_
+2|500|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Nature Valley, Protein Blueberry Nut^_
+2|500|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Dehlbar, Vegan Turmeric-Cherry^_
+2|460|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Betty Lou's, Peanut Butter and Blueberry PB&J^_
+2|450|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|R.E.D.D., Salted Caramel^_
+2|400|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Bulletproof, Collagen Protein, Vanilla Shortbread^_
+2|400|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Mosh, Blueberry Almond Crunch^_
+2|400|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Nature's Bakery, Oatmeal Crumble Strawberry^_
+1|308|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|NuGo, Vanilla Yogurt^_
+1|300|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Zee Zees, Blueberry Lemon^_
+1|250|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Kind, Protein Caramel Peanut Crisp^_
+1|200|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Gatorade, Protein Chocolate Chip^_
+1|200|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|One, S'mores Protein^_
+1|200|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Quest, Blueberry Muffin^_
+1|100|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Fiber One, Strawberries and Cream^_
+1|100|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Nutri Grain, Soft Baked Strawberry^_
+1|0|NULL|NULL|No|NULL|NULL|NULL|NULL|NULL|Fiber One, Chocolate Peanut Butter^_

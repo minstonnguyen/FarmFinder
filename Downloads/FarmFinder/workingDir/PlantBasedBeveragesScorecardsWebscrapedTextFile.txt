@@ -1,0 +1,306 @@
+StarRating|Score|Products|BrandMarketArea|Organic|PlantBased|ParentCompany|CompanyType|ParticipatedInSurvey|Description|BrandName
+^_5|1850|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|WestSoy, Organic, Unsweetened^_
+5|1850|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Malk Almond, Organic, Unsweetened^_
+5|1850|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Malk Oat, Organic, Unsweetened^_
+5|1850|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Three Trees Almond, Organic, Original^_
+5|1850|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Tofu Shop Soy, Organic Unflavored^_
+5|1850|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|New Barn Almond, Organic, Unsweetened^_
+5|1850|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|EdenSoy, Organic, Unsweetened^_
+5|1850|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Malk Almond, Organic, Unsweetened Vanilla^_
+5|1850|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Beber Almond, Unsweetened^_
+5|1770|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Trader Joe's Soymilk, Organic, Unsweetened^_
+5|1740|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Pacific Foods Soy, Organic, Unsweetened^_
+5|1600|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|EdenSoy, Organic, Vanilla Extra^_
+5|1600|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Three Trees Almond, Organic, Vanilla^_
+5|1600|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Three Trees Almond, Organic, Black Sesame^_
+5|1600|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|EdenSoy, Organic, Carob^_
+5|1600|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|WestSoy, Organic, Original^_
+5|1600|NULL|NULL|Yes|Pistachio/Almond|NULL|NULL|NULL|NULL|Three Trees Pistachio, Organic, Unsweetened^_
+5|1600|NULL|NULL|Yes|Blend|NULL|NULL|NULL|NULL|Three Trees Oat, Organic, Oat and Seed^_
+5|1600|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Forager Project Soy, Organic, Unsweetened^_
+5|1600|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Willa's Oat, Organic Original^_
+5|1600|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|EdenSoy, Organic, Vanilla^_
+5|1600|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|New Barn Almond, Organic, Unsweetened Vanilla^_
+5|1600|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Malk Oat, Organic, Vanilla^_
+5|1600|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Beber Almond, Vanilla^_
+5|1600|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Beber Almond, Strawberry^_
+5|1600|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Beber Almond, Lavender^_
+5|1600|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Beber Almond, Chocolate^_
+5|1600|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Malk Oat, Organic, Chocolate^_
+5|1600|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Kiki Oat, Organic, Chocolate^_
+5|1600|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Kiki Oat, Organic, Original^_
+5|1550|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Tofu Shop Soy, Organic Vanilla^_
+5|1550|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Tofu Shop Soy, Organic Ginger^_
+5|1550|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Tofu Shop Soy, Organic Chocolate^_
+5|1550|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|EdenSoy, Organic, Original Extra^_
+5|1550|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|EdenSoy, Organic, Original^_
+5|1550|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|New Barn Coconut, Organic, Unsweetened^_
+5|1520|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Rise Brewing, Organic Chocolate^_
+5|1520|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Rise Brewing, Organic Original^_
+5|1510|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Earth's Own Oat, Organic Original^_
+5|1500|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|WestSoy, Organic, Unsweetened Vanilla^_
+5|1500|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|EdenSoy, Organic, Cocoa^_
+5|1500|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Thrive Market, Organic Almond^_
+5|1500|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|New Barn Almond, Organic, Barista^_
+5|1500|NULL|NULL|Yes|Cashew|NULL|NULL|NULL|NULL|Forager Project Cashew, Organic, Unsweetened^_
+5|1470|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Oatsome, Organic Original^_
+5|1470|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Rise Brewing, Organic Vanilla^_
+4|1450|NULL|NULL|Yes|Banana|NULL|NULL|NULL|NULL|Mooala Bananamilk, Organic Chocolate^_
+4|1450|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Mooala Oat, Organic, Unsweetened Coconut^_
+4|1450|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Mooala Almond, Organic, Vanilla^_
+4|1450|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Forager Project Oat, Organic^_
+4|1450|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|So Delicious Coconut, Organic, Original^_
+4|1450|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Cadia Almond, Organic^_
+4|1450|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|GreenWise Soy, Organic, Plain^_
+4|1450|NULL|NULL|Yes|Banana|NULL|NULL|NULL|NULL|Mooala Bananamilk, Organic^_
+4|1450|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|O Organics Soy, Organic, Plain^_
+4|1450|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|GreenWise Soy, Organic, Vanilla^_
+4|1450|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Mooala Almond, Organic^_
+4|1450|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|O Organics Soy, Organic, Vanilla^_
+4|1450|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Naturgreen Oat, Organic^_
+4|1430|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|365 Almond, Organic, Unsweetened Vanilla^_
+4|1420|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Minor Figures Barista Oat, Organic^_
+4|1420|NULL|NULL|Yes|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Trader Joe's Rice, Organic^_
+4|1410|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Simple Truth Soy, Organic, Plain^_
+4|1410|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Simple Truth Soy, Organic, Vanilla^_
+4|1400|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Natur-a Soy, Organic, Unsweetened^_
+4|1400|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Full Circle Soy, Organic, Original^_
+4|1400|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Natural By Nature Oat, Organic, Unsweetend^_
+4|1400|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|Vita Coco Coconut, Organic Original^_
+4|1400|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|O Organics Almond, Organic, Unsweetened^_
+4|1400|NULL|NULL|Yes|Banana|NULL|NULL|NULL|NULL|Mooala Bananamilk, Organic, Strawberry^_
+4|1400|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|O Organics Coconut, Organic, Unsweetened Original^_
+4|1400|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|SimplyNature Almond, Organic, Unsweetened^_
+4|1400|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|O Organics Almond, Organic, Unsweetened Vanilla^_
+4|1400|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Cadia Almond, Organic, Vanilla^_
+4|1400|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|O Organics Almond, Vanilla^_
+4|1400|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Earth's Own Soy, Organic Original^_
+4|1400|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Organic, Original^_
+4|1400|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Natural By Nature Oat, Creamer^_
+4|1390|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Pacific Foods Oat, Organic, Original^_
+4|1390|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Pacific Foods Almond, Organic, Unsweetened Original^_
+4|1390|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Pacific Foods Almond, Organic, Unsweetened Vanilla^_
+4|1380|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|365 Soy, Organic, Unsweetened Original^_
+4|1380|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|365 Almond, Organic, Unsweetened^_
+4|1370|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Willa's Oat, Organic Creamy^_
+4|1350|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Full Circle Soy, Organic, Vanilla^_
+4|1350|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Organic, Unsweetened^_
+4|1350|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Full Circle Soy, Organic, Original Unsweetened^_
+4|1350|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|So Delicious Coconut, Organic, Unsweetened Vanilla^_
+4|1350|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|So Delicious Coconut, Organic, Unsweetened^_
+4|1350|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|So Delicious Coconut, Organic Vanilla^_
+4|1340|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Pacific Foods Almond, Organic, Vanilla^_
+4|1340|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Pacific Foods Oat, Organic, Vanilla^_
+4|1340|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Pacific Foods Almond, Organic, Original^_
+4|1330|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|365 Coconut, Organic, Unsweetened Vanilla^_
+4|1330|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|365 Coconut, Organic, Unsweetened Original^_
+4|1330|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|365 Soy, Organic, Original^_
+4|1330|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|365 Soy, Organic, Vanilla^_
+4|1330|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|365 Almond, Organic, Chocolate Unsweetened^_
+4|1310|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Silk Almond, Organic Unsweetened Vanilla^_
+4|1310|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Silk Almond, Organic Original^_
+4|1310|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Silk Soy, Organic, Unsweetened^_
+4|1310|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Silk Soy, Organic, Vanilla^_
+4|1310|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Simple Truth Almond, Organic, Unsweetened^_
+4|1310|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Silk Almond, Organic Unsweetened^_
+4|1310|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Simple Truth Soy, Organic, Unsweetened^_
+4|1300|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Natural By Nature Oat, Organic, Vanilla^_
+4|1300|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Organic, Vanilla Unsweetened^_
+4|1300|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Natur-a Soy, Organic, Vanilla Light^_
+4|1300|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Organic, Vanilla^_
+4|1290|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|Pacific Foods Coconut, Organic, Original^_
+4|1290|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|Pacific Foods Coconut, Organic, Unsweetened Vanilla^_
+4|1290|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|Pacific Foods Coconut, Organic, Unsweetened^_
+4|1290|NULL|NULL|Yes|Oat|NULL|NULL|NULL|NULL|Pacific Foods Oat, Organic, Original Reduced Sugar^_
+4|1250|NULL|NULL|No|Hazelnut|NULL|NULL|NULL|NULL|Elmhurst Hazelnut, Unsweetened^_
+4|1250|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Elmhurst Cashew, Unsweetened^_
+4|1250|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Elmhurst Oat, Unsweetened^_
+4|1250|NULL|NULL|Yes|Coconut|NULL|NULL|NULL|NULL|So Delicious Coconut, Original, Sugar Free^_
+4|1250|NULL|NULL|No|Walnut|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Elmhurst Walnut, Unsweetened^_
+4|1250|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Orgain Almond, Organic, Lightly Sweetened Vanilla^_
+4|1250|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Orgain Almond, Organic, Unsweetened Vanilla^_
+4|1250|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Elmhurst Almond, Unsweetened^_
+4|1240|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|Pacific Foods Almond, Organic, Chocolate^_
+4|1210|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Silk Soy, Organic, Vanilla Unsweetened^_
+4|1210|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Wild Harvest Soy, Organic, Chocolate^_
+4|1200|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Natur-a Soy, Organic, Original Chocolate^_
+4|1200|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Natur-a Soy, Organic, Strawberry^_
+4|1200|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Natur-a Soy, Organic, Original Light^_
+4|1200|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Sunrich Naturals Soy, Organic^_
+4|1200|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Natur-a Soy, Organic^_
+4|1200|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Natur-a Soy, Organic Vanilla^_
+4|1200|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Natur-a Soy, Organic, Cappuccino^_
+4|1150|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|SimplyNature Soy, Organic, Original^_
+4|1150|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|Sunrise Soy, Unsweetened^_
+4|1150|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Sunrich Naturals Soy, Organic, Vanilla^_
+4|1150|NULL|NULL|Yes|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Natur-a Rice, Organic Original^_
+4|1150|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Sunrich Naturals Soy, Organic, Chocolate^_
+4|1140|NULL|NULL|Yes|Cashew|NULL|NULL|NULL|NULL|Pacific Foods Cashew, Made with Organic, Unsweetened^_
+4|1133|NULL|NULL|Yes|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Dream Rice, Organic, Original Classic^_
+4|1110|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Wild Harvest Soy, Organic, Original^_
+4|1110|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Wild Harvest Soy, Organic, Vanilla^_
+3|1100|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Pearl Soymilk, Organic, Coffee^_
+3|1100|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Pearl Soymilk, Organic, Creamy Vanilla^_
+3|1100|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Pearl Soymilk, Organic, Green Tea^_
+3|1100|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Pearl Soymilk, Organic, Original^_
+3|1100|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Pearl Soymilk, Organic, Chocolate^_
+3|1100|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Pearl Soymilk, Organic, Unsweetened^_
+3|1090|NULL|NULL|Yes|Cashew|NULL|NULL|NULL|NULL|Pacific Foods Cashew, Made with Organic, Original^_
+3|1083|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Dream Soy, Organic, Original Enriched^_
+3|1083|NULL|NULL|Yes|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Dream Rice, Organic, Original Enriched^_
+3|1070|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Trader Joe's Soymilk, Organic, Vanilla^_
+3|1050|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|President's Choice Almond, Organic, Unsweetened Vanilla^_
+3|1050|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|Sunrise Soy, Sweetened^_
+3|1050|NULL|NULL|Yes|Almond|NULL|NULL|NULL|NULL|President's Choice Almond, Organic, Unsweetened^_
+3|1000|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|WestSoy, Organic Plus, Vanilla^_
+3|1000|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|WestSoy, Organic Plus, Plain^_
+3|1000|NULL|NULL|Yes|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Natur-a Rice, Organic Vanilla^_
+3|990|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Pacific Foods Soy, Ultra, Original^_
+3|990|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Nature's Promise Soy, Organic, Vanilla^_
+3|975|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|President's Choice Soy, Organic Low Fat^_
+3|966|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Kirkland Soy, Organic, Vanilla^_
+3|920|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Minor Figures Barista Oat^_
+3|916|NULL|NULL|Yes|Soy|NULL|NULL|NULL|NULL|Kirkland Soy, Organic Plain^_
+3|883|NULL|NULL|Yes|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Dream Rice, Organic, Unsweetened Enriched^_
+3|850|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Califia Farms Oat, Original^_
+3|850|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Oat-ly Oat, Low-Fat^_
+3|833|NULL|NULL|No|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Dream Rice, Vanilla Classic^_
+3|820|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Trader Joe's Coconut, Unsweetened^_
+3|816|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Kirkland Almond, Unsweetened Vanilla^_
+3|810|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond/Coconut, Unsweetened^_
+3|800|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Elmhurst Cashew^_
+3|800|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Elmhurst Oat^_
+3|800|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Elmhurst Oat, Chocolate^_
+3|800|NULL|NULL|No|Blend|NULL|NULL|NULL|NULL|Tempt/Living Harvest Hemp/Coconut Unsweetened^_
+3|790|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Pacific Foods Hemp, Original^_
+3|790|NULL|NULL|No|Hazelnut|NULL|NULL|NULL|NULL|Pacific Foods Hazelnut, Unsweetened Original^_
+3|790|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Pacific Foods Hemp, Original, Unsweetened^_
+3|760|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond, Unsweetened Original^_
+3|760|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Earth's Own Oat, Original Unsweetened^_
+3|760|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Wild Harvest Almond, Vanilla^_
+3|760|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond, Unsweetened Vanilla^_
+3|750|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|"Califia Farms ""Go Coconuts"" Coconut, Water Blend^_
+3|750|NULL|NULL|No|Quinoa|NULL|NULL|NULL|NULL|Suzie’s Quinoa, Unsweetened^_
+3|750|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Oat-ly Oat, Original^_
+3|750|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Oat-ly Oat, Barista^_
+2|730|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|365 Oat, Original^_
+2|710|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond, Dark Chocolate^_
+2|710|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Silk Oat, Sugar-free^_
+2|710|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Silk Cashew, Unsweetened Vanilla^_
+2|710|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Silk Cashew, Unsweetened^_
+2|710|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Earth's Own Cashew, Unsweetened Original^_
+2|710|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|Silk Soy, Chocolate^_
+2|710|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Silk Coconut, Unsweetened^_
+2|710|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Silk Oat, Vanilla^_
+2|710|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Silk Oat, Extra Creamy^_
+2|710|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|Silk Soy, Vanilla^_
+2|710|NULL|NULL|No|Cashew|NULL|NULL|NULL|NULL|Silk Oat, Original^_
+2|710|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|Silk Soy, Original^_
+2|700|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Califia Farms Oat, Vanilla^_
+2|700|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Tempt/Living Harvest Hemp, Chocolate^_
+2|700|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Tempt/Living Harvest Hemp, Unsweetened Vanilla^_
+2|700|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Unsweetened Vanilla^_
+2|700|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Natur-a Almond, Unsweetened^_
+2|700|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Tempt/Living Harvest Hemp, Unsweetened Original^_
+2|700|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Friendly Farms Almond, Original, Unsweetened^_
+2|700|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Natur-a Almond, Unsweetened Vanilla^_
+2|690|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Pacific Foods Hemp, Unsweetened Vanilla^_
+2|690|NULL|NULL|No|Hazelnut|NULL|NULL|NULL|NULL|Pacific Foods Hazelnut, Original^_
+2|690|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Nature's Promise Almond, Original, Unsweetened^_
+2|675|NULL|NULL|No|Blend|NULL|NULL|NULL|NULL|Califia Farms Almond, Toasted Coconut^_
+2|670|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Trader Joe's Almond, Unsweetened Original^_
+2|660|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond, Less Sugar Original^_
+2|660|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond, Less Sugar Vanilla^_
+2|660|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Earth's Own Almond, Unsweetened Vanilla^_
+2|660|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Simple Truth Almond, Unsweetened^_
+2|660|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Wild Harvest Almond, Unsweetened Original^_
+2|660|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|Silk Soy, Very Vanilla^_
+2|660|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond, Vanilla^_
+2|650|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Califia Farms Oat, Protein, Original^_
+2|650|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Blue Diamond Almond, Original^_
+2|650|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Califia Farms Almond, Vanilla, Unsweetened^_
+2|650|NULL|NULL|No|Quinoa|NULL|NULL|NULL|NULL|Suzie’s Quinoa, Vanilla^_
+2|650|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Califia Farms Oat, Protein, Vanilla^_
+2|650|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Califia Farms Almond, Unsweetened^_
+2|650|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Original Unsweetened^_
+2|620|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Trader Joe's Almond, Unsweetened Vanilla^_
+2|620|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Trader Joe's Coconut, Vanilla^_
+2|610|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Silk Coconut, Original^_
+2|610|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond/Coconut, Original^_
+2|600|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Tempt/Living Harvest Hemp, Original Vanilla^_
+2|600|NULL|NULL|No|Flax|NULL|NULL|NULL|NULL|Good Karma Flax Milk, Chocolate^_
+2|600|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Blue Diamond Almond, Banana Blend^_
+2|600|NULL|NULL|No|Flax|NULL|NULL|NULL|NULL|Good Karma Flax, Unsweetened plus Protein^_
+2|600|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Natur-a Almond/Coconut^_
+2|600|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Blue Diamond Almond, Unsweetened Original^_
+2|600|NULL|NULL|No|Macadamia|NULL|NULL|NULL|NULL|Milkidamia, Lightly Sweetened^_
+2|600|NULL|NULL|No|Macadamia|NULL|NULL|NULL|NULL|Milkidamia, Unsweetened Vanilla^_
+2|600|NULL|NULL|No|Blend|NULL|NULL|NULL|NULL|Blue Diamond Almond/Coconut, Unsweetened Original^_
+2|600|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Blue Diamond Almond, Unsweetened Vanilla^_
+2|600|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Blue Diamond Almond, Hint of Honey^_
+2|600|NULL|NULL|No|Flax|NULL|NULL|NULL|NULL|Good Karma Flax, Vanilla plus Protein^_
+2|600|NULL|NULL|No|Oat|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Natur-a Oat, Original^_
+2|600|NULL|NULL|No|Macadamia|NULL|NULL|NULL|NULL|Milkidamia, Unsweetened^_
+2|600|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Tempt/Living Harvest Hemp, Original^_
+2|600|NULL|NULL|No|Flax|NULL|NULL|NULL|NULL|Good Karma Flax Milk, Vanilla^_
+2|600|NULL|NULL|No|Macadamia|NULL|NULL|NULL|NULL|Milkidamia, Unsweetened Latte^_
+2|590|NULL|NULL|No|Hemp|NULL|NULL|NULL|NULL|Pacific Foods Hemp, Vanilla^_
+2|590|NULL|NULL|No|Hazelnut|NULL|NULL|NULL|NULL|Pacific Foods Hazelnut, Chocolate^_
+2|583|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Dream Oat, Unsweetened^_
+2|570|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Trader Joe's Almond/Cashew/Macadamia, Unsweetened^_
+2|560|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Simple Truth Almond, Unsweetened Vanilla^_
+2|560|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Earth's Own Almond, Vanilla^_
+2|560|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Earth's Own Oat, Chocolate^_
+2|560|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Earth's Own Oat, Unsweetened Vanilla^_
+2|560|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Simple Truth Almond, Original^_
+2|560|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Silk Almond, Original^_
+2|560|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Earth's Own Almond, Unsweetened Original^_
+2|550|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Oat-ly Oat, Chocolate^_
+2|550|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Califia Farms Almond, Barista Blend^_
+2|550|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Blue Diamond Almond, Chocolate^_
+2|550|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Califia Farms Almond, Original^_
+2|550|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Lucerne Almond, Unsweetened^_
+2|550|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Original^_
+2|550|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Califia Farms Almond, Vanilla^_
+2|533|NULL|NULL|No|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Dream Rice, Vanilla Enriched^_
+2|520|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Trader Joe's Almond, Blueberry Lavender^_
+2|520|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Trader Joe's Almond, Matcha^_
+2|520|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|Trader Joe's Soymilk, Unsweetened Original^_
+2|500|NULL|NULL|No|Flax|NULL|NULL|NULL|NULL|Good Karma Flax Milk, Original^_
+2|500|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Blue Diamond Almond, Vanilla^_
+2|500|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Natur-a Almond, Chocolate^_
+2|500|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Natur-a Almond, Original^_
+2|500|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Natur-a Almond, Vanilla^_
+2|500|NULL|NULL|No|Oat|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Natur-a Oat, Chocolate^_
+2|500|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Friendly Farms Almond, Vanilla^_
+2|500|NULL|NULL|No|Oat/Flax|NULL|NULL|NULL|NULL|Good Karma Plantmilk, Unsweetened^_
+2|500|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Blue Diamond Almond, Reduced Sugar, Vanilla^_
+2|483|NULL|NULL|No|Oat|NULL|NULL|NULL|NULL|Dream Oat, Original^_
+2|483|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Dream Coconut, Unsweetened^_
+2|460|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Simple Truth Almond, Chocolate^_
+2|460|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Earth's Own Almond, Chocolate^_
+2|460|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Earth's Own Almond, Original^_
+2|450|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Lucerne Almond, Vanilla^_
+2|450|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Chocolate^_
+2|450|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Full Circle Almond, Vanilla^_
+2|440|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Nature's Promise Almond, Original Vanilla^_
+2|440|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Nature's Promise Almond, Original^_
+2|440|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Nature's Promise Almond, Unsweetened Vanilla^_
+2|433|NULL|NULL|No|Rice|NULL|NULL|NULL|Cornucopia asks consumers to be aware that rice products, including rice-based beverages, may contain the heavy metal arsenic in quantities that are harmful to human health. Due to a number of factors associated with arsenic levels in rice products (type of rice used, location grown, production methods, etc.), it is difficult to identify a safe level of consumption for rice-based beverages. It should be noted, only a very small amount of rice is actually used in rice-based beverages. For general guidelines and more background on this issue, we suggest reviewing Consumers Union’s 2014 report – https://www.consumerreports.org/cro/magazine/2015/01/how-much-arsenic-is-in-your-rice/index.htm.|Dream Rice, Horchata^_
+2|410|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Simple Truth Coconut, Unsweetened^_
+2|400|NULL|NULL|No|Oat/Flax|NULL|NULL|NULL|NULL|Good Karma Plantmilk, Original^_
+2|400|NULL|NULL|No|Pea|NULL|NULL|NULL|NULL|Ripple Pea, Unsweetened Original^_
+2|400|NULL|NULL|No|Oat/Flax|NULL|NULL|NULL|NULL|Good Karma Plantmilk, Chocolate^_
+2|400|NULL|NULL|No|Oat/Flax|NULL|NULL|NULL|NULL|Good Karma Plantmilk, Vanilla^_
+2|400|NULL|NULL|No|Cocunut|NULL|NULL|NULL|NULL|Full Circle Coconut, Original Unsweetened^_
+2|400|NULL|NULL|No|Pea|NULL|NULL|NULL|NULL|Ripple Pea, Unsweetened Vanilla^_
+2|383|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Dream Coconut, Vanilla Enriched^_
+2|383|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Dream Almond, Unsweetened^_
+1|350|NULL|NULL|No|Almond|NULL|NULL|NULL|NULL|Lucerne Almond, Chocolate^_
+1|310|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Simple Truth Coconut, Original^_
+1|300|NULL|NULL|No|Pea|NULL|NULL|NULL|NULL|Ripple Pea, Original^_
+1|300|NULL|NULL|No|Pea|NULL|NULL|NULL|NULL|Ripple Pea, Vanilla^_
+1|300|NULL|NULL|No|Coconut|NULL|NULL|NULL|NULL|Full Circle Coconut, Original^_
+1|300|NULL|NULL|No|Pea|NULL|NULL|NULL|NULL|Ripple Pea, Chocolate^_
+1|0|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|8th Continent Soy, Original^_
+1|0|NULL|NULL|No|Soy|NULL|NULL|NULL|NULL|8th Continent Soy, Vanilla^_
