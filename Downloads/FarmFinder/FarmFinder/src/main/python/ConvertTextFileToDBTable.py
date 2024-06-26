@@ -120,6 +120,7 @@ plantBasedBeverageTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\wor
 snackbarTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\SnackBarScorecardsWebscrapedTextFile.txt"
 cottageCheeseTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\CottageCheeseScorecardsWebscrapedTextFile.txt"
 cerealTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\CerealScorecardsWebscrapedTextFile.txt"
+soyTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\SoyScorecardsWebscrapedTextFile.txt"
 
 eggTextFile = TextFile(eggTextFileName, delimeter)
 dairyTextFile = TextFile(dairyTextFileName, delimeter)
@@ -130,6 +131,7 @@ plantBasedBeverageTextFile = TextFile(plantBasedBeverageTextFileName, delimeter)
 snackbarTextFile = TextFile(snackbarTextFileName, delimeter)
 cottageCheeseTextFile = TextFile(cottageCheeseTextFileName, delimeter)
 cerealTextFile = TextFile(cerealTextFileName, delimeter)
+soyTextFile = TextFile(soyTextFileName, delimeter)
 tableName = 'BrandMaster'
 dbInfo = DBConnection(server, database, username, password)
 
@@ -137,17 +139,19 @@ eggConverter = ConvertTextFileToDBTable(eggTextFile.getTextFileLocation(), dbInf
 dairyConverter = ConvertTextFileToDBTable(dairyTextFile.getTextFileLocation(), dbInfo, dairyTextFile.getDelimeter(), tableName)
 beefConverter = ConvertTextFileToDBTable(beefTextFile.getTextFileLocation(), dbInfo, beefTextFile.getDelimeter(), tableName)
 poultryConverter = ConvertTextFileToDBTable(poultryTextFile.getTextFileLocation(), dbInfo, poultryTextFile.getDelimeter(), tableName)
-yogurtConverter = ConvertTextFileToDBTable(yogurtTextFile.getTextFileLocation(), dbInfo, yogurtTextFile.getDelimeter(), tableName)
+yogurtConverter = ConvertTextFileToDBTable(yogurtTextFile.getTextFileLocation(), dbInfo, yogurtTextFile.getDelimeter(), tableName)  #have to individually insert star rating
 plantBasedBeverageConverter = ConvertTextFileToDBTable(plantBasedBeverageTextFile.getTextFileLocation(), dbInfo, plantBasedBeverageTextFile.getDelimeter(), tableName)
 snackBarConverter = ConvertTextFileToDBTable(snackbarTextFile.getTextFileLocation(), dbInfo, snackbarTextFile.getDelimeter(), tableName)
 cottageCheeseConverter = ConvertTextFileToDBTable(cottageCheeseTextFile.getTextFileLocation(), dbInfo, cottageCheeseTextFile.getDelimeter(), tableName)
-cerealConverter = ConvertTextFileToDBTable(cerealTextFile.getTextFileLocation(), dbInfo, cerealTextFile.getDelimeter(), tableName)
+cerealConverter = ConvertTextFileToDBTable(cerealTextFile.getTextFileLocation(), dbInfo, cerealTextFile.getDelimeter(), tableName) #have to individually insert star rating and organic
+soyConverter = ConvertTextFileToDBTable(soyTextFile.getTextFileLocation(), dbInfo, soyTextFile.getDelimeter(), tableName) # had to indivally truncate products string
 #eggConverter.run()
 #dairyConverter.run()
-#beefConverter.run()
+beefConverter.run()
 #poultryConverter.run()
 #yogurtConverter.run()
 #plantBasedBeverageConverter.run()
 #snackBarConverter.run()
 #cottageCheeseConverter.run()
-cerealConverter.run()
+#cerealConverter.run()
+#soyConverter.run()

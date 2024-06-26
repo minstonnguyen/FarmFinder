@@ -56,11 +56,11 @@ class ScorecardData():
                 a_tag = i.find('a')
                 second_url = a_tag['href'] if a_tag else None
                 description = self.description(second_url) if second_url else None
-                organicStatus = self.organicStatus(second_url) if second_url else None
+                #organicStatus = self.organicStatus(second_url) if second_url else None
                 star_rating = self.star_rating(second_url) if second_url else None
 
                 row_values.append(description)
-                row_values.append(organicStatus)
+                #row_values.append(organicStatus)
                 row_values.append(star_rating)
                 
                 self.data.append(row_values)   
@@ -81,7 +81,7 @@ class ScorecardData():
                 description = ' '.join([p.get_text(strip=True) for p in p_tags])
                 return description
         return None
-
+    '''
     def organicStatus(self, url):   #additional web request needed to access a link within a link for organicStatus for cereal
 
         headers = {'User-Agent': 'Mozilla/5.0'}
@@ -93,7 +93,7 @@ class ScorecardData():
             description = span_tag.get_text(strip=True)
             return description
         return None
-
+    '''
     def star_rating(self, url):   #additional web request needed to access a link within a link for rating
 
         headers = {'User-Agent': 'Mozilla/5.0'}
@@ -112,7 +112,7 @@ class ScorecardData():
     
     def cleaningTags(self):
     
-        df = pd.DataFrame(self.data, columns=self.column_names + ['Description', 'Organic', 'StarRating'])
+        df = pd.DataFrame(self.data, columns=self.column_names + ['Description', 'StarRating'])
 
         for i in set(self.brand_column_name_mapping.values()):
             if i not in df.columns:
@@ -160,7 +160,10 @@ def main():
     cottageCheeseFileName = "CottageCheeseScorecardsWebscrapedTextFile.txt"
     cerealUrl = 'https://www.cornucopia.org/scorecard/cereal/'
     cerealFileName = "CerealScorecardsWebscrapedTextFile.txt"
+    soyUrl = 'https://www.cornucopia.org/scorecard/soy/'
+    soyOutputFileName = "SoyScorecardsWebscrapedTextFile.txt"
     outputPath = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir"
+    
 
     delimeter = '|'
     newLineDelimeter = '^_'
@@ -174,13 +177,15 @@ def main():
     snackbarScorecardWebscrapeToTextFile = ScorecardData(snackbarUrl, delimeter, newLineDelimeter)
     cottageCheeseScorecardWebscrapeToTextFile = ScorecardData(cottageCheeseUrl, delimeter, newLineDelimeter)
     cerealScorecardWebscrapeToTextFile = ScorecardData(cerealUrl, delimeter, newLineDelimeter)
+    soyScorecardWebscrapeToTextFile = ScorecardData(soyUrl, delimeter, newLineDelimeter)
     #eggScorecardWebscrapeToTextFile.run(outputPath, eggOutputFileName)
     #dairyScorecardWebscrapeToTextFile.run(outputPath, dairyOutputFileName)
     #beefScorecardWebscrapeToTextFile.run(outputPath, beefOutputFileName)
     #poultryScorecardWebscrapeToTextFile.run(outputPath, poultryFileName)
     #yogurtScorecardWebscrapeToTextFile.run(outputPath, yogurtFileName)
-    #plantBasedBeveragesScorecardWebscrapeToTextFile.run(outputPath, plantBasedBeveragesOutputFileName)
+    plantBasedBeveragesScorecardWebscrapeToTextFile.run(outputPath, plantBasedBeveragesOutputFileName)
     #snackbarScorecardWebscrapeToTextFile.run(outputPath, snackbarOutputFileName)
     #cottageCheeseScorecardWebscrapeToTextFile.run(outputPath, cottageCheeseFileName)
-    cerealScorecardWebscrapeToTextFile.run(outputPath, cerealFileName)
+    #cerealScorecardWebscrapeToTextFile.run(outputPath, cerealFileName)
+    #soyScorecardWebscrapeToTextFile.run(outputPath, soyOutputFileName)
 main()   
