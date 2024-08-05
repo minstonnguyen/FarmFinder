@@ -183,7 +183,7 @@ def main():
     #beefScorecardWebscrapeToTextFile.run(outputPath, beefOutputFileName)
     #poultryScorecardWebscrapeToTextFile.run(outputPath, poultryFileName)
     #yogurtScorecardWebscrapeToTextFile.run(outputPath, yogurtFileName)
-    plantBasedBeveragesScorecardWebscrapeToTextFile.run(outputPath, plantBasedBeveragesOutputFileName)
+    #plantBasedBeveragesScorecardWebscrapeToTextFile.run(outputPath, plantBasedBeveragesOutputFileName)
     #snackbarScorecardWebscrapeToTextFile.run(outputPath, snackbarOutputFileName)
     #cottageCheeseScorecardWebscrapeToTextFile.run(outputPath, cottageCheeseFileName)
     #cerealScorecardWebscrapeToTextFile.run(outputPath, cerealFileName)
