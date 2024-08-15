@@ -1,0 +1,122 @@
+@font-face {
+  font-family: FairfieldDisplay;
+  src: url(../fonts/PlayfairDisplay.ttf) format("truetype");
+}
+
+.shopTitle {
+  /* color: #426b1f; */
+  margin-top: 70px;
+  margin-left: 26%;
+  font-size: 20px;
+  font-family: "FairfieldDisplay";
+}
+
+.products {
+  float: left;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+  align-items: center;
+  overflow: auto;
+}
+
+.product {
+  border-width: 0px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 15px;
+  box-shadow: 0 0 10px lightgray;
+  /* background-color: gray; */
+  width: 250px;
+  height: 300px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.product img {
+  height: 160px;
+}
+
+.product .productName {
+  text-align: center;
+  color: #3e4958;
+  font-size: 19px;
+  font-family: "FairfieldDisplay";
+}
+
+.product:hover {
+  transition: 0.3s ease-in;
+  cursor: pointer;
+}
+
+.addToCartBttn {
+  background-color: transparent;
+  border: 2px solid rgb(19, 19, 19);
+  min-width: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  border-radius: 15px;
+}
+
+.addToCartBttn:hover {
+  background-color: rgb(19, 19, 19);
+  color: white;
+  cursor: pointer;
+}
+
+.shopPage {
+  width: 100%;
+  overflow: hidden;
+}
+
+.leftpanel {
+  float: left;
+  margin-left: 15px;
+  font-family: "FairfieldDisplay";
+  text-align: center;
+  width: 24%;
+  height: 100px;
+}
+
+.groceryList {
+  float: left;
+  /* background-color: grey; */
+  width: 24%;
+  height: 100px;
+  font-size: 10px;
+  font-family: "FairfieldDisplay";
+  text-align: center;
+}
+
+.filterBox {
+  margin: auto;
+  width: 50%;
+  height: 20px;
+  margin-bottom: 40px;
+  display: flex;
+}
+
+.filter {
+  width: 100px;
+  height: 27px;
+  margin: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 16px;
+  border-color: lightgrey;
+}
+
+.filterContent {
+  text-align: center;
+  font-family: "FairfieldDisplay";
+  color: black;
+}
