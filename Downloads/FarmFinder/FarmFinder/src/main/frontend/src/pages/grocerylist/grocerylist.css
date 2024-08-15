@@ -3,7 +3,7 @@
   src: url(../fonts/PlayfairDisplay.ttf) format("truetype");
 }
 
-.shopTitle {
+.groceryListTitle {
   /* color: #426b1f; */
   margin-top: 70px;
   margin-left: 26%;
@@ -73,7 +73,7 @@
   cursor: pointer;
 }
 
-.shopPage {
+.groceryListPage {
   width: 100%;
   overflow: hidden;
 }
@@ -87,7 +87,7 @@
   height: 100px;
 }
 
-.groceryList {
+.rightPanel {
   float: left;
   /* background-color: grey; */
   width: 24%;

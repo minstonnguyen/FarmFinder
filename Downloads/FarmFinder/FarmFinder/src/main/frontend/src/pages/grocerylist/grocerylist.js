@@ -2,14 +2,14 @@ import React from "react";
 import { PRODUCTS } from "./products";
 import { Product } from "./product";
 import { Popup } from "./popup";
-import "./shop.css";
+import "./grocerylist.css";
 import { useState } from "react";
 
-export const Shop = () => {
+export const GroceryList = () => {
   const [buttonPopup, setButtonPopup] = useState(false);
   return (
-    <div className="shop">
-      <div className="shopTitle">
+    <div className="groceryList">
+      <div className="groceryListTitle">
         <h1> Grocery List Generator</h1>
       </div>
       <div className="filterBox">
@@ -23,7 +23,7 @@ export const Shop = () => {
           <div className="filterContent">Soy</div>
         </div>
       </div>
-      <div className="shopPage">
+      <div className="groceryListPage">
         <div className="leftpanel">
           <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
             <h1> Select Criteria </h1>
@@ -46,7 +46,7 @@ export const Shop = () => {
             <Product data={product} />
           ))}
         </div>
-        <div className="groceryList">
+        <div className="rightPanel">
           <h1> Grocery List </h1>
         </div>
       </div>
