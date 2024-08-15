@@ -110,6 +110,7 @@ public class CallStoredProcedure {
             CallStoredProcedure dbConnection = new CallStoredProcedure(server, databaseName, username, password);
             dbConnection.connect();
             dbConnection.runStoredProcedure();
+            
         } catch (Exception e) {
             e.printStackTrace();
         }

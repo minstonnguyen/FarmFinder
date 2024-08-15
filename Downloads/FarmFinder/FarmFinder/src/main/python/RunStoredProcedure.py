@@ -38,7 +38,7 @@ class DBConnection:
             scorecardName = 'Plant-Based Beverages Scorecard'
             starRating = 1
             products = None
-            brandMarketArea = None
+            brandMarketArea = 'CA'
             organic = 'Yes'
             plantBased = 'SOY'
             parentCompany = None

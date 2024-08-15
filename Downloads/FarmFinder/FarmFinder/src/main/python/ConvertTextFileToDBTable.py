@@ -9,6 +9,7 @@ from html.parser import HTMLParser
 import requests
 import pyodbc
 import datetime
+import base64
 
 class DBTableData:
     
@@ -86,6 +87,8 @@ class ConvertTextFileToDBTable:
         for index, line in enumerate(lines[1:]):
             values = line.strip().split(self.getDelimeter())
             for columnIndex, value in enumerate(values):
+                if columnNames[columnIndex] == "Logo" and value != 'NULL':  # Convert base64 to binary for Logo column
+                    value = base64.b64decode(value)
                 dbTableData.setValue(index, columnIndex, value if value != 'NULL' else None)
         print(tableName) 
            
@@ -103,10 +106,10 @@ class ConvertTextFileToDBTable:
 #x = LoadConnInfo(inputfilepath);
 #y = LoadSchemaMetaData(inputfilepath);
 
-server = 'MTN-LAPTOP\SQLEXPRESS'  # for a named instance
+server = 'MTN-LAPTOP\\SQLEXPRESS'  # for a named instance
 database = 'FarmFinderDB'
 username = 'FarmFinderDBA'
-password = 'a'
+password = 'ab'
 fileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\BrandNameTextFileTest.txt"
 
 delimeter = '|'
@@ -121,6 +124,17 @@ snackbarTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\S
 cottageCheeseTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\CottageCheeseScorecardsWebscrapedTextFile.txt"
 cerealTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\CerealScorecardsWebscrapedTextFile.txt"
 soyTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\SoyScorecardsWebscrapedTextFile.txt"
+eggFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\egg_farmdata.txt"
+beefFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\beef_farmdata.txt"
+dairyFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\dairy_farmdata.txt"
+poultryFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\poultry_farm.txt"
+yogurtFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\yogurt_farm.txt"
+plantFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\plant_farm.txt"
+snackbarFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\snackbar_farm.txt"
+cottageCheeseFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\cottagecheese_farm.txt"
+cerealFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\cereal_farm.txt"
+soyFarmTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\soy_farm.txt"
+
 
 eggTextFile = TextFile(eggTextFileName, delimeter)
 dairyTextFile = TextFile(dairyTextFileName, delimeter)
@@ -132,8 +146,21 @@ snackbarTextFile = TextFile(snackbarTextFileName, delimeter)
 cottageCheeseTextFile = TextFile(cottageCheeseTextFileName, delimeter)
 cerealTextFile = TextFile(cerealTextFileName, delimeter)
 soyTextFile = TextFile(soyTextFileName, delimeter)
+
+eggFarmTextFile = TextFile(eggFarmTextFileName, delimeter)
+beefFarmTextFile = TextFile(beefFarmTextFileName, delimeter)
+dairyFarmTextFile = TextFile(dairyFarmTextFileName, delimeter)
+poultryFarmTextFile = TextFile(poultryFarmTextFileName, delimeter)
+yogurtFarmTextFile = TextFile(yogurtFarmTextFileName, delimeter)
+plantFarmTextFile = TextFile(plantFarmTextFileName, delimeter)
+snackbarFarmTextFile = TextFile(snackbarFarmTextFileName, delimeter)
+cottageCheeseFarmTextFile = TextFile(cottageCheeseFarmTextFileName, delimeter)
+cerealFarmTextFile = TextFile(cerealFarmTextFileName, delimeter)
+soyFarmTextFile = TextFile(soyFarmTextFileName, delimeter)
 tableName = 'BrandMaster'
+farmTableName = 'FarmMaster'
 dbInfo = DBConnection(server, database, username, password)
+
 
 eggConverter = ConvertTextFileToDBTable(eggTextFile.getTextFileLocation(), dbInfo, eggTextFile.getDelimeter(), tableName)
 dairyConverter = ConvertTextFileToDBTable(dairyTextFile.getTextFileLocation(), dbInfo, dairyTextFile.getDelimeter(), tableName)
@@ -145,9 +172,19 @@ snackBarConverter = ConvertTextFileToDBTable(snackbarTextFile.getTextFileLocatio
 cottageCheeseConverter = ConvertTextFileToDBTable(cottageCheeseTextFile.getTextFileLocation(), dbInfo, cottageCheeseTextFile.getDelimeter(), tableName)
 cerealConverter = ConvertTextFileToDBTable(cerealTextFile.getTextFileLocation(), dbInfo, cerealTextFile.getDelimeter(), tableName) #have to individually insert star rating and organic
 soyConverter = ConvertTextFileToDBTable(soyTextFile.getTextFileLocation(), dbInfo, soyTextFile.getDelimeter(), tableName) # had to indivally truncate products string
+eggFarmConverter = ConvertTextFileToDBTable(eggFarmTextFile.getTextFileLocation(), dbInfo, eggFarmTextFile.getDelimeter(), farmTableName)
+beefFarmConverter = ConvertTextFileToDBTable(beefFarmTextFile.getTextFileLocation(), dbInfo, beefFarmTextFile.getDelimeter(), farmTableName)
+dairyFarmConverter = ConvertTextFileToDBTable(dairyFarmTextFile.getTextFileLocation(), dbInfo, dairyFarmTextFile.getDelimeter(), farmTableName)
+poultryFarmConverter = ConvertTextFileToDBTable(poultryFarmTextFile.getTextFileLocation(), dbInfo, poultryFarmTextFile.getDelimeter(), farmTableName)
+yogurtFarmConverter = ConvertTextFileToDBTable(yogurtFarmTextFile.getTextFileLocation(), dbInfo, yogurtFarmTextFile.getDelimeter(), farmTableName)
+plantFarmConverter = ConvertTextFileToDBTable(plantFarmTextFile.getTextFileLocation(), dbInfo, plantFarmTextFile.getDelimeter(), farmTableName)
+snackbarFarmConverter = ConvertTextFileToDBTable(snackbarFarmTextFile.getTextFileLocation(), dbInfo, snackbarFarmTextFile.getDelimeter(), farmTableName)
+cottageCheeseFarmConverter = ConvertTextFileToDBTable(cottageCheeseFarmTextFile.getTextFileLocation(), dbInfo, cottageCheeseFarmTextFile.getDelimeter(), farmTableName)
+cerealFarmConverter = ConvertTextFileToDBTable(cerealFarmTextFile.getTextFileLocation(), dbInfo, cerealFarmTextFile.getDelimeter(), farmTableName)
+soyFarmConverter = ConvertTextFileToDBTable(soyFarmTextFile.getTextFileLocation(), dbInfo, soyFarmTextFile.getDelimeter(), farmTableName)
 #eggConverter.run()
 #dairyConverter.run()
-beefConverter.run()
+#beefConverter.run()
 #poultryConverter.run()
 #yogurtConverter.run()
 #plantBasedBeverageConverter.run()
@@ -155,3 +192,18 @@ beefConverter.run()
 #cottageCheeseConverter.run()
 #cerealConverter.run()
 #soyConverter.run()
+eggFarmConverter.run()
+beefFarmConverter.run()
+dairyFarmConverter.run()
+poultryFarmConverter.run()
+yogurtFarmConverter.run()
+plantFarmConverter.run()
+snackbarFarmConverter.run()
+cottageCheeseFarmConverter.run()
+cerealFarmConverter.run()
+soyFarmConverter.run()
+
+manualInsertionTextFileName = "C:\\Users\\minston\\Downloads\\FarmFinder\\workingDir\\manualFarmInsertion.txt"
+manualInsertionTextFile = TextFile(manualInsertionTextFileName, delimeter)
+manualInsertionConverter = ConvertTextFileToDBTable(manualInsertionTextFile.getTextFileLocation(), dbInfo, manualInsertionTextFile.getDelimeter(), farmTableName)
+#manualInsertionConverter.run()
