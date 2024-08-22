@@ -3,12 +3,13 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/Home'
 import MenuBar from './components/MenuBar'
-import GenerateGroceryList from './components/GenerateGroceryList'
-import ExploreFarms from './components/ExploreFarms'
+import GenerateGroceryList from './components/GenerateGroceryList';
+import ExploreFarms from './components/ExploreFarms';
 import Layout from './Layout';
 function App() {
   return (
-    <div className="App">
+    <Router>
+      <div className="App">
         <div className="logo-container">
           <div className="brand-logo">
             <img src = "/logo.png" width = {50} height = {80} alt = "logo" />
@@ -18,7 +19,15 @@ function App() {
         <p>FarmFinder</p>
       </header>
       <MenuBar />
-    </div>
+      <Routes>
+        <Route path = "/ExploreFarms" element={<ExploreFarms/>}/>
+        <Route path = "/GenerateGroceryList" element={<GenerateGroceryList/>}/>
+        <Route path = "/" element={<Home/>}/>
+        
+      </Routes>
+      </div>
+    </Router>
+    
   );
 }
 
