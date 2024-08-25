@@ -1,9 +1,9 @@
-@font-face {
+/* @font-face {
   font-family: FairfieldDisplay;
   src: url(../fonts/PlayfairDisplay.ttf) format("truetype");
-}
+} */
 
-.groceryListTitle {
+.shopTitle {
   /* color: #426b1f; */
   margin-top: 70px;
   margin-left: 26%;
@@ -73,7 +73,7 @@
   cursor: pointer;
 }
 
-.groceryListPage {
+.shopPage {
   width: 100%;
   overflow: hidden;
 }
@@ -85,16 +85,6 @@
   text-align: center;
   width: 24%;
   height: 100px;
-}
-
-.rightPanel {
-  float: left;
-  /* background-color: grey; */
-  width: 24%;
-  height: 100px;
-  font-size: 10px;
-  font-family: "FairfieldDisplay";
-  text-align: center;
 }
 
 .filterBox {

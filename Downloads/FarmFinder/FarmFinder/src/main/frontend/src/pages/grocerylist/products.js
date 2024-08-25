@@ -1,32 +1,73 @@
-export const PRODUCTS = [
+const products = [
   {
     id: 1,
-    productName: "Eggs",
-    productImage: egg,
+    name: "Eggs",
   },
   {
     id: 2,
-    productName: "Milk",
-    productImage: milk,
+    name: "Milk",
+    types: ["Condensed Milk", "Fluid Milk", "Raw Milk"],
   },
   {
     id: 3,
-    productName: "Cheese",
-    productImage: cheese,
+    name: "Butter",
   },
   {
     id: 4,
-    productName: "Beef",
-    // productImage: beef,
+    name: "Cheese",
   },
   {
     id: 5,
-    productName: "Yogurt",
-    // productImage: beef,
+    name: "Cream",
   },
   {
     id: 6,
-    productName: "Soy",
-    // productImage: beef,
+    name: "Ice Cream",
+  },
+  {
+    id: 7,
+    name: "Chocolate",
+  },
+  {
+    id: 8,
+    name: "Beef",
+  },
+  {
+    id: 9,
+    name: "Pet Food",
+  },
+  {
+    id: 10,
+    name: "Poultry",
+  },
+  {
+    id: 11,
+    name: "Yogurt",
+  },
+  {
+    id: 12,
+    name: "Plant Based Beverages",
+  },
+  {
+    id: 13,
+    name: "Snack Bar",
+  },
+  {
+    id: 14,
+    name: "Cottage Cheese",
+  },
+  {
+    id: 15,
+    name: "Cereal",
+  },
+  {
+    id: 16,
+    name: "Tofu",
+  },
+  {
+    id: 17,
+    name: "Other Soy Products",
   },
 ];
+
+export default products;

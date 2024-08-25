@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+@font-face {
+  font-family: "FairfieldDisplay";
+  src: url(./fonts/PlayfairDisplay.ttf) format("truetype");
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -20,8 +25,8 @@
   align-items: center;
   justify-content: center;
   font-size: calc(100px + 2vmin);
-  color: #426B1F;
-  font-family: 'Playfair Display';
+  color: #426b1f;
+  font-family: "Playfair Display";
 }
 
 .App-home-buttons {
@@ -30,8 +35,8 @@
   align-items: center;
   justify-content: right;
   font-size: calc(10px + 2vmin);
-  color: #426B1F;
-  font-family: 'Playfair Display';
+  color: #426b1f;
+  font-family: "Playfair Display";
 }
 
 @keyframes App-logo-spin {
@@ -75,7 +80,7 @@
 
 .menu-bar li a {
   display: block;
-  color: #426B1F;
+  color: #426b1f;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
