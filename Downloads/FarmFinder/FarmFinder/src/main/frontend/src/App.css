@@ -27,6 +27,7 @@
   font-size: calc(100px + 2vmin);
   color: #426b1f;
   font-family: "Playfair Display";
+  
 }
 
 .App-home-buttons {
@@ -57,6 +58,12 @@
 .additional-image img {
   max-width: 150px;
   height: auto;
+  margin-right: 10;
+}
+
+.brand-name{
+  font-size: 24 px;
+  margin:0; /*ensures no margin for text*/
 }
 
 .menu-bar {
@@ -66,6 +73,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  
 }
 
 .menu-bar ul {
