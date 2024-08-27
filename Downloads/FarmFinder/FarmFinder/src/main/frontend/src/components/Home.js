@@ -8,13 +8,16 @@ function Home()
     const windowHeight = useRef(window.innerHeight);
     return(
 
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '50vh' }}>
-            <nav class = "navbar background">
-                <ul class = "nav-list">
-                <img src={yourImage} width = {windowWidth} height = {800}alt/>
-
-                </ul>
-            </nav>
+        <div className="home-container">
+            <div className="image-container">
+                <img 
+                    src={yourImage} 
+                    width={windowWidth.current} 
+                    height={800} 
+                    alt="Your Image" 
+                    style={{ width: '100%', height: 'auto', objectFit: 'cover' }} 
+                />
+            </div>
         </div>
     );
 }

@@ -1,6 +1,7 @@
 import logo from "./assets/logo.png";
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Link } from 'react-router-dom'
 import Home from "./components/Home";
 import MenuBar from "./components/MenuBar";
 import GenerateGroceryList from "./components/GenerateGroceryList";
@@ -16,7 +17,11 @@ function App() {
             <div className="brand-logo">
               <img src={logo}width={125} height={200} alt="logo" />
             </div>
-            <p className = "brand-name">FarmFinder</p>
+            <p className = "brand-name">
+              <Link to="/" className="brand-name-link">FarmFinder</Link>
+            </p> 
+            
+              
           </div>
           
         </header>

@@ -1,0 +1,20 @@
+.home-container{ 
+    height: '100vh';
+    display: 'flex'; 
+    flex-Direction: 'column'; 
+}
+
+.image-container{ 
+    display: 'flex';
+    justify-Content: 'center';
+    align-Items: 'center';
+    flex: 1;
+    
+}
+
+.home-image{
+    width: '100%';
+    height: 'auto';
+    object-fit: 'cover' 
+ 
+}

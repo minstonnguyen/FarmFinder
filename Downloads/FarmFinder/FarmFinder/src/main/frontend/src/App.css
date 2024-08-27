@@ -52,6 +52,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .brand-logo img,
@@ -64,8 +65,18 @@
 .brand-name{
   font-size: 24 px;
   margin:0; /*ensures no margin for text*/
+  color:#426b1f;
+  font-family: "Playfair Display";
+}
+.brand-name-link {
+  text-decoration: none; /* Remove underline */
+  color: #426b1f; /* Keep the green color */
+  
 }
 
+.brand-name-link:hover {
+  color: #426b1f; /* Ensure color stays the same on hover */
+}
 .menu-bar {
   background-color: #ffffff;
   overflow: hidden;
