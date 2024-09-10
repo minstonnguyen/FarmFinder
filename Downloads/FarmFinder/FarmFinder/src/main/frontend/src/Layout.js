@@ -12,6 +12,10 @@ function Layout() {
             <li><a href="/">Home</a></li>
             <li><a href="/GenerateGroceryList">GenerateGroceryList</a></li>
             <li><a href="/ExploreFarms">ExploreFarms</a></li>
+            <li><a href="/Resources">Resources</a></li>
+            <li><a href="/About">About</a></li>
+            <li><a href="/ContactUs">ContactUs</a></li>
+            <li><a href="/Login">Login</a></li>
           </ul>
         </nav>
       </header>
