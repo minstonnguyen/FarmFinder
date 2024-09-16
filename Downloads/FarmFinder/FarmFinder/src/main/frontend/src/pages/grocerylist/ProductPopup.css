@@ -80,7 +80,7 @@ input[type="radio"] {
 
 .finalGroceryList {
   position: fixed;
-  top: 0;
+  top: 80px;
   right: 0;
   padding: 20px;
   margin-top: 8%;
@@ -90,4 +90,13 @@ input[type="radio"] {
   font-size: 15px;
   font-family: "FairfieldDisplay";
   text-align: center;
+}
+
+.insideFGL {
+  margin: auto;
+  width: 300px;
+  height: 50%;
+  /* Lined paper background */
+  /* background-image: linear-gradient(#e0dddd 0.1em, transparent 0.1em);
+  background-size: 100% 2em; */
 }

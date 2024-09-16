@@ -57,8 +57,10 @@ const ProductGrid = ({ products }) => {
       )}
 
       <div className="finalGroceryList">
-        <h1> Grocery List </h1>
-        <pre>{JSON.stringify(productCriteria, null, 2)}</pre>
+        <div className="insideFGL">
+          <h1> Grocery List </h1>
+          <pre>{JSON.stringify(productCriteria, null, 2)}</pre>
+        </div>
       </div>
     </div>
   );

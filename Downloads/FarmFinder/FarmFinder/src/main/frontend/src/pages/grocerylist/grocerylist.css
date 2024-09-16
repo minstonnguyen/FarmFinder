@@ -5,6 +5,7 @@
 
 .shopTitle {
   /* color: #426b1f; */
+  text-align: left !important;
   margin-top: 70px;
   margin-left: 26%;
   font-size: 20px;
@@ -75,7 +76,6 @@
 }
 
 .shopPage {
-  
   width: 100%;
   overflow: hidden;
 }
