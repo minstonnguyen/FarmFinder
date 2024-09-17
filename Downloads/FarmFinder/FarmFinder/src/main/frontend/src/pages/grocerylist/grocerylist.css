@@ -8,9 +8,17 @@
   text-align: left !important;
   margin-top: 70px;
   margin-left: 26%;
+  margin-bottom: 40px;
   font-size: 20px;
   font-family: "FairfieldDisplay";
   text-align: center;
+}
+
+.instructions {
+  width: 50%;
+  text-align: left !important;
+  margin-left: 26%;
+  margin-bottom: 10px;
 }
 
 .products {

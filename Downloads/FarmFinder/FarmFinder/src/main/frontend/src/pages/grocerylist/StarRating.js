@@ -27,7 +27,7 @@ const StarRating = ({ selectedStarRating, setSelectedStarRating }) => {
                   ? "#ffc107"
                   : "e4e5e9"
               }
-              size={20}
+              size={25}
               onMouseEnter={() => setHover(ratingValue)}
               onMouseLeave={() => setHover(null)}
             />

@@ -1,31 +1,45 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
+import FinalGroceryList from "./FinalGroceryList";
 import ProductPopup from "./ProductPopup"; // Import the popup component
 
 const ProductGrid = ({ products }) => {
   const [selectedProduct, setSelectedProduct] = useState(null);
-  const [productCriteria, setProductCriteria] = useState({});
+  const productRefs = useRef({});
+  const [groceryList, setGroceryList] = useState([]);
 
-  useEffect(() => {
-    const savedCriteria = JSON.parse(localStorage.getItem("productCriteria"));
-    if (savedCriteria) {
-      setProductCriteria(savedCriteria);
-    }
-  }, []);
-
-  useEffect(() => {
-    localStorage.setItem("productCriteria", JSON.stringify(productCriteria));
-  }, [productCriteria]);
-
-  const handleProductClick = (product) => {
-    setSelectedProduct(product);
+  const handleAddToGroceryList = (productSelection) => {
+    setGroceryList((prevList) => [...prevList, productSelection]);
   };
 
-  const handleSaveCriteria = (productId, criteria) => {
-    setProductCriteria((prevCriteria) => ({
-      ...prevCriteria,
-      [productId]: criteria,
-    }));
+  const handleRemoveFromGroceryList = (index) => {
+    setGroceryList((prevList) => prevList.filter((_, i) => i !== index));
   };
+
+  // OLD IMPLEMENTATION WITH LOCALSTATES
+  //
+  // const [productCriteria, setProductCriteria] = useState({});
+  //
+  //useEffect(() => {
+  //   const savedCriteria = JSON.parse(localStorage.getItem("productCriteria"));
+  //   if (savedCriteria) {
+  //     setProductCriteria(savedCriteria);
+  //   }
+  // }, []);
+
+  // useEffect(() => {
+  //   localStorage.setItem("productCriteria", JSON.stringify(productCriteria));
+  // }, [productCriteria]);
+
+  const handleProductClick = (product, index) => {
+    setSelectedProduct({ product, index });
+  };
+
+  // const handleSaveCriteria = (productId, criteria) => {
+  //   setProductCriteria((prevCriteria) => ({
+  //     ...prevCriteria,
+  //     [productId]: criteria,
+  //   }));
+  // };
 
   const handleClosePopup = () => {
     setSelectedProduct(null);
@@ -33,11 +47,12 @@ const ProductGrid = ({ products }) => {
 
   return (
     <div className="product-grid">
-      {products.map((product) => (
+      {products.map((product, index) => (
         <div
           key={product.id}
           className="product-item"
-          onClick={() => handleProductClick(product)}
+          ref={(el) => (productRefs.current[index] = el)}
+          onClick={() => handleProductClick(product, index)}
         >
           <img src={product.img} />
           <div className="productName">
@@ -50,18 +65,19 @@ const ProductGrid = ({ products }) => {
 
       {selectedProduct && (
         <ProductPopup
-          product={selectedProduct}
-          onSave={handleSaveCriteria}
+          product={selectedProduct.product}
+          productIndex={selectedProduct.index}
+          productRefs={productRefs}
+          onAddToGroceryList={handleAddToGroceryList}
+          // onSave={handleSaveCriteria}
           onClose={handleClosePopup}
         />
       )}
 
-      <div className="finalGroceryList">
-        <div className="insideFGL">
-          <h1> Grocery List </h1>
-          <pre>{JSON.stringify(productCriteria, null, 2)}</pre>
-        </div>
-      </div>
+      <FinalGroceryList
+        groceryList={groceryList}
+        onRemoveFromGroceryList={handleRemoveFromGroceryList}
+      />
     </div>
   );
 };

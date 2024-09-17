@@ -2,7 +2,7 @@ input[type="radio"] {
   display: none;
 }
 
-.product-popup {
+/* .product-popup {
   position: fixed;
   top: 0;
   left: 0;
@@ -17,6 +17,27 @@ input[type="radio"] {
 
 .product-popup.open {
   transform: translateX(0);
+}
+*/
+
+.product-popup-interior {
+  height: 180px;
+}
+
+.product-popup {
+  /* font-family: "FairfieldDisplay"; */
+  position: absolute;
+  height: 300px;
+  width: 250px;
+  /* padding: 20px; */
+  box-shadow: 0 0 10px lightgray;
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+  z-index: 10;
+  border-radius: 15px;
+}
+
+.criteria-section {
+  margin-top: 10px;
 }
 
 .close-btn {
@@ -42,9 +63,7 @@ input[type="radio"] {
 }
 
 .product-grid .product-item {
-  border-width: 0px;
-  border-style: solid;
-  border-color: black;
+  border: 0px solid #ccc;
   border-radius: 15px;
   box-shadow: 0 0 10px lightgray;
   /* background-color: gray; */
@@ -83,7 +102,7 @@ input[type="radio"] {
   top: 80px;
   right: 0;
   padding: 20px;
-  margin-top: 8%;
+  margin-top: 5%;
   /* background-color: grey; */
   width: 400px;
   height: 100%;
@@ -93,10 +112,112 @@ input[type="radio"] {
 }
 
 .insideFGL {
+  border: 0px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 0 10px lightgray;
   margin: auto;
-  width: 300px;
-  height: 50%;
+  width: 310px;
+  height: 470px;
   /* Lined paper background */
   /* background-image: linear-gradient(#e0dddd 0.1em, transparent 0.1em);
   background-size: 100% 2em; */
+}
+
+.FGLTitle {
+  padding: 20px;
+  padding-left: 40px;
+  padding-top: 26px;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.listOfGroceries {
+  overflow-y: scroll;
+  margin: auto;
+  width: 270px;
+  height: 300px;
+  margin-bottom: 17px;
+}
+
+.listOfGroceries::-webkit-scrollbar {
+  display: none;
+}
+
+.addToListButton {
+  border: none;
+  background: none;
+  height: 40px;
+  width: 196px;
+  box-shadow: 1px 1px 2px rgba(21, 21, 21, 0.1);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 15px;
+  color: white;
+  /* font-family: "FairfieldDisplay"; */
+  margin: 0 1rem;
+  padding: 0.25rem 2rem;
+  transition: all 0.25s ease-in-out;
+  background: #426b1f;
+  color: #426b1f(0, 0%, 23%);
+}
+
+.finalizeButton {
+  border: none;
+  background: none;
+  height: 40px;
+  box-shadow: 1px 1px 2px rgba(21, 21, 21, 0.1);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+  /* font-family: "FairfieldDisplay"; */
+  margin: 0 1rem;
+  padding: 0.25rem 2rem;
+  transition: all 0.25s ease-in-out;
+  background: #426b1f;
+  color: #426b1f(0, 0%, 23%);
+}
+
+.button:focus,
+.button:hover {
+  box-shadow: 1px 1px 2px rgba(21, 21, 21, 0.2);
+  background: #426b1f(0, 0%, 88%);
+}
+
+.listOfGroceries ul {
+  list-style-type: none;
+  padding: 0;
+  padding-inline-start: 20px;
+}
+
+.grocery-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px;
+  border-bottom: 1px solid #ccc;
+}
+
+.grocery-details {
+  flex-grow: 1;
+}
+
+.removeButton {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+select {
+  border: none;
+  background: none;
+  height: 26px;
+  box-shadow: 1px 1px 2px rgba(21, 21, 21, 0.1);
+  border-radius: 8px;
+  font-size: 14.5px;
+  color: white;
+  /* font-family: "FairfieldDisplay"; */
+  background: #426b1f;
 }

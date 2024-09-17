@@ -12,10 +12,8 @@ function Home()
             <div className="image-container">
                 <img 
                     src={yourImage} 
-                    width={windowWidth.current} 
-                    height={800} 
-                    alt="Your Image" 
-                    style={{ width: '100%', height: 'auto', objectFit: 'cover' }} 
+                    className='home-image'
+                    
                 />
             </div>
         </div>
