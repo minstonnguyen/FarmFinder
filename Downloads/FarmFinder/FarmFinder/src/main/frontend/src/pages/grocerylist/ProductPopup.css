@@ -57,9 +57,25 @@ input[type="radio"] {
   height: auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  gap: 15px;
   place-items: center;
   align-items: center;
   overflow: auto;
+}
+
+@media (max-width: 1700px) {
+  .product-grid {
+    grid-template-columns: repeat(
+      2,
+      1fr
+    ); /* 2 items per row for smaller screens */
+  }
+}
+
+@media (max-width: 1400px) {
+  .product-grid {
+    grid-template-columns: 1fr; /* 1 item per row for very small screens */
+  }
 }
 
 .product-grid .product-item {
@@ -69,7 +85,7 @@ input[type="radio"] {
   /* background-color: gray; */
   width: 250px;
   height: 300px;
-  margin: 10px;
+  /* margin: 10px; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -152,7 +168,7 @@ input[type="radio"] {
   box-shadow: 1px 1px 2px rgba(21, 21, 21, 0.1);
   border-radius: 8px;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 14.8px;
   color: white;
   /* font-family: "FairfieldDisplay"; */
   margin: 0 1rem;
@@ -216,7 +232,7 @@ select {
   height: 26px;
   box-shadow: 1px 1px 2px rgba(21, 21, 21, 0.1);
   border-radius: 8px;
-  font-size: 14.5px;
+  font-size: 14px;
   color: white;
   /* font-family: "FairfieldDisplay"; */
   background: #426b1f;

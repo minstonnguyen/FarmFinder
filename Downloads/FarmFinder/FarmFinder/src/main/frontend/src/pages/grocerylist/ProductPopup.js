@@ -68,7 +68,9 @@ const ProductPopup = ({
         <button className="close-btn" onClick={onClose}>
           &times;
         </button>
-        <h2 style={{ marginTop: "30px" }}>{product.name}</h2>
+        <h2 style={{ marginTop: "30px", fontFamily: "FairfieldDisplay" }}>
+          {product.name}
+        </h2>
         {/* <p>Minimum Star Rating: </p> */}
         <StarRating
           selectedStarRating={selectedStarRating}
